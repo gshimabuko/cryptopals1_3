@@ -81,17 +81,17 @@ void encryptedMessage::decodeMessage(std::vector<unsigned char> keyVector)
     {
         for(long unsigned int j = 0; j < 8; j++)
         {
-            if(8 - j < keyVector.size())
+            if(7 - j < keyVector.size())
             {
-                binDecode.push_back(bitwiseXOR(binVector[i+j], keyVector[8 - j]));
+                binDecode.push_back(bitwiseXOR(binVector[i+j], keyVector[7 - j]));
             }
             else
             {
                 binDecode.push_back(bitwiseXOR(binVector[i+j], '0'));
             }
-        }
+        }   
     }
-    decodedMessage = bin2base64(binDecode);
+    decodedMessage = bin2dec(binDecode);
 }
 std::string encryptedMessage::getDecodedMessage()
 {
@@ -116,4 +116,7 @@ int main()
         message.decodeMessage(binKey);
         std::cout << message.getDecodedMessage() << std::endl;
     }
+        binKey = dec2bin(88);
+        message.decodeMessage(binKey);
+        std::cout << message.getDecodedMessage() << std::endl;
 }
