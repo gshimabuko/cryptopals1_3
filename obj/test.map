@@ -1,0 +1,2419 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/libc_nonshared.a(elf-init.oS)
+                              /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o (__libc_csu_init)
+
+Merging program properties
+
+Removed property 0xc0000002 to merge /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o (0x3) and obj/test.o (not found)
+Removed property 0xc0000002 to merge /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o (not found) and /usr/lib/libc_nonshared.a(elf-init.oS) (0x3)
+Removed property 0xc0000002 to merge /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o (not found) and /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtendS.o (0x3)
+Removed property 0xc0000002 to merge /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o (not found) and /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/crtn.o (0x3)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+ .note.gnu.property
+                0x0000000000000000       0x50 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtbeginS.o
+ .note.gnu.property
+                0x0000000000000000       0x50 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtbeginS.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .group         0x0000000000000000        0x8 obj/test.o
+ .group         0x0000000000000000        0xc obj/test.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 obj/test.o
+ .note.gnu.property
+                0x0000000000000000       0x30 obj/test.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 obj/encryptedMessage.o
+ .group         0x0000000000000000        0xc obj/encryptedMessage.o
+ .text._ZnwmPv  0x0000000000000000       0x12 obj/encryptedMessage.o
+ .text._ZNSt11char_traitsIcE6lengthEPKc
+                0x0000000000000000       0x3a obj/encryptedMessage.o
+ .text._ZNSt12_Vector_baseIhSaIhEE12_Vector_implD2Ev
+                0x0000000000000000       0x1b obj/encryptedMessage.o
+ .text._ZNSt12_Vector_baseIhSaIhEEC2Ev
+                0x0000000000000000       0x1b obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEEC2Ev
+                0x0000000000000000       0x1b obj/encryptedMessage.o
+ .text._ZN9__gnu_cxx11char_traitsIcE2eqERKcS3_
+                0x0000000000000000       0x21 obj/encryptedMessage.o
+ .text._ZN9__gnu_cxx11char_traitsIcE6lengthEPKc
+                0x0000000000000000       0x69 obj/encryptedMessage.o
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_Alloc_hiderD2Ev
+                0x0000000000000000       0x1b obj/encryptedMessage.o
+ .text._ZNSaIhEC2Ev
+                0x0000000000000000       0x1b obj/encryptedMessage.o
+ .text._ZNSaIhED2Ev
+                0x0000000000000000       0x1b obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEEC2IN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEvEET_SD_RKS0_
+                0x0000000000000000       0x94 obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEED2Ev
+                0x0000000000000000       0x44 obj/encryptedMessage.o
+ .text._ZNSt12_Vector_baseIhSaIhEE12_Vector_implC2Ev
+                0x0000000000000000       0x27 obj/encryptedMessage.o
+ .text._ZNSt12_Vector_baseIhSaIhEED2Ev
+                0x0000000000000000       0x49 obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEEC2ERKS1_
+                0x0000000000000000      0x113 obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEEaSEOS1_
+                0x0000000000000000       0x38 obj/encryptedMessage.o
+ .text._ZNKSt6vectorIhSaIhEE4sizeEv
+                0x0000000000000000       0x1f obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEE5beginEv
+                0x0000000000000000       0x48 obj/encryptedMessage.o
+ .text._ZN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEC2IPhEERKNS0_IT_NS_11__enable_ifIXsrSt10__are_sameIS9_S8_E7__valueES5_E6__typeEEE
+                0x0000000000000000       0x29 obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEE6insertEN9__gnu_cxx17__normal_iteratorIPKhS1_EEOh
+                0x0000000000000000       0x38 obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEEixEm
+                0x0000000000000000       0x1c obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEE9push_backEOh
+                0x0000000000000000       0x31 obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEE3endEv
+                0x0000000000000000       0x4c obj/encryptedMessage.o
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2IS3_EEPKcRKS3_
+                0x0000000000000000       0x93 obj/encryptedMessage.o
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_
+                0x0000000000000000       0x2e obj/encryptedMessage.o
+ .text._ZN9__gnu_cxx13new_allocatorIhEC2Ev
+                0x0000000000000000        0xb obj/encryptedMessage.o
+ .text._ZN9__gnu_cxx13new_allocatorIhED2Ev
+                0x0000000000000000        0xb obj/encryptedMessage.o
+ .text._ZNSt12_Vector_baseIhSaIhEEC2ERKS0_
+                0x0000000000000000       0x26 obj/encryptedMessage.o
+ .text._ZSt19__iterator_categoryIN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEENSt15iterator_traitsIT_E17iterator_categoryERKSB_
+                0x0000000000000000        0xa obj/encryptedMessage.o
+ .text._ZSt8distanceIN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEENSt15iterator_traitsIT_E15difference_typeESB_SB_
+                0x0000000000000000       0x31 obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEE19_M_range_initializeIN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEEEvT_SD_St20forward_iterator_tag
+                0x0000000000000000       0xab obj/encryptedMessage.o
+ .text._ZNSt12_Vector_baseIhSaIhEE19_M_get_Tp_allocatorEv
+                0x0000000000000000        0xe obj/encryptedMessage.o
+ .text._ZSt8_DestroyIPhhEvT_S1_RSaIT0_E
+                0x0000000000000000       0x2a obj/encryptedMessage.o
+ .text._ZNKSt12_Vector_baseIhSaIhEE19_M_get_Tp_allocatorEv
+                0x0000000000000000        0xe obj/encryptedMessage.o
+ .text._ZNSt12_Vector_baseIhSaIhEE13_M_deallocateEPhm
+                0x0000000000000000       0x35 obj/encryptedMessage.o
+ .text._ZNKSt6vectorIhSaIhEE5beginEv
+                0x0000000000000000       0x48 obj/encryptedMessage.o
+ .text._ZNKSt6vectorIhSaIhEE3endEv
+                0x0000000000000000       0x4c obj/encryptedMessage.o
+ .text._ZNSt12_Vector_baseIhSaIhEE17_Vector_impl_dataC2Ev
+                0x0000000000000000       0x2e obj/encryptedMessage.o
+ .text._ZN9__gnu_cxx14__alloc_traitsISaIhEhE17_S_select_on_copyERKS1_
+                0x0000000000000000       0x4c obj/encryptedMessage.o
+ .text._ZNSt12_Vector_baseIhSaIhEEC2EmRKS0_
+                0x0000000000000000       0x5d obj/encryptedMessage.o
+ .text._ZSt22__uninitialized_copy_aIN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEEPhhET0_T_SA_S9_RSaIT1_E
+                0x0000000000000000       0x31 obj/encryptedMessage.o
+ .text._ZSt4moveIRSt6vectorIhSaIhEEEONSt16remove_referenceIT_E4typeEOS5_
+                0x0000000000000000        0xe obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEE14_M_move_assignEOS1_St17integral_constantIbLb1EE
+                0x0000000000000000       0xc4 obj/encryptedMessage.o
+ .text._ZN9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEC2ERKS1_
+                0x0000000000000000       0x1d obj/encryptedMessage.o
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEE4baseEv
+                0x0000000000000000        0xe obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEE14_M_insert_rvalEN9__gnu_cxx17__normal_iteratorIPKhS1_EEOh
+                0x0000000000000000      0x19d obj/encryptedMessage.o
+ .text._ZSt4moveIRhEONSt16remove_referenceIT_E4typeEOS2_
+                0x0000000000000000        0xe obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEE12emplace_backIJhEEERhDpOT_
+                0x0000000000000000       0xa4 obj/encryptedMessage.o
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE16_M_construct_auxIPKcEEvT_S8_St12__false_type
+                0x0000000000000000       0x51 obj/encryptedMessage.o
+ .text._ZNSt12_Vector_baseIhSaIhEE12_Vector_implC2ERKS0_
+                0x0000000000000000       0x32 obj/encryptedMessage.o
+ .text._ZSt10__distanceIN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEENSt15iterator_traitsIT_E15difference_typeESB_SB_St26random_access_iterator_tag
+                0x0000000000000000       0x25 obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEE17_S_check_init_lenEmRKS0_
+                0x0000000000000000       0x83 obj/encryptedMessage.o
+ .text._ZNSt12_Vector_baseIhSaIhEE11_M_allocateEm
+                0x0000000000000000       0x33 obj/encryptedMessage.o
+ .text._ZSt22__uninitialized_copy_aIN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEPhhET0_T_SC_SB_RSaIT1_E
+                0x0000000000000000       0x31 obj/encryptedMessage.o
+ .text._ZSt8_DestroyIPhEvT_S1_
+                0x0000000000000000       0x26 obj/encryptedMessage.o
+ .text._ZNSt16allocator_traitsISaIhEE10deallocateERS0_Phm
+                0x0000000000000000       0x2e obj/encryptedMessage.o
+ .text._ZN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEC2ERKS2_
+                0x0000000000000000       0x1d obj/encryptedMessage.o
+ .text._ZSt12__miter_baseIN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEEET_S8_
+                0x0000000000000000        0xe obj/encryptedMessage.o
+ .text._ZSt12__miter_baseIPhET_S1_
+                0x0000000000000000        0xe obj/encryptedMessage.o
+ .text._ZNSt16allocator_traitsISaIhEE37select_on_container_copy_constructionERKS0_
+                0x0000000000000000       0x29 obj/encryptedMessage.o
+ .text._ZNSt12_Vector_baseIhSaIhEE17_M_create_storageEm
+                0x0000000000000000       0x52 obj/encryptedMessage.o
+ .text._ZSt18uninitialized_copyIN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEEPhET0_T_SA_S9_
+                0x0000000000000000       0x31 obj/encryptedMessage.o
+ .text._ZNKSt12_Vector_baseIhSaIhEE13get_allocatorEv
+                0x0000000000000000       0x34 obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEEC2ERKS0_
+                0x0000000000000000       0x26 obj/encryptedMessage.o
+ .text._ZNSt12_Vector_baseIhSaIhEE17_Vector_impl_data12_M_swap_dataERS2_
+                0x0000000000000000       0x7b obj/encryptedMessage.o
+ .text._ZSt15__alloc_on_moveISaIhEEvRT_S2_
+                0x0000000000000000       0x1f obj/encryptedMessage.o
+ .text._ZNKSt6vectorIhSaIhEE6cbeginEv
+                0x0000000000000000       0x48 obj/encryptedMessage.o
+ .text._ZN9__gnu_cxxmiIPKhSt6vectorIhSaIhEEEENS_17__normal_iteratorIT_T0_E15difference_typeERKS9_SC_
+                0x0000000000000000       0x3b obj/encryptedMessage.o
+ .text._ZNKSt6vectorIhSaIhEE4cendEv
+                0x0000000000000000       0x4c obj/encryptedMessage.o
+ .text._ZN9__gnu_cxxeqIPKhSt6vectorIhSaIhEEEEbRKNS_17__normal_iteratorIT_T0_EESB_
+                0x0000000000000000       0x3b obj/encryptedMessage.o
+ .text._ZNSt16allocator_traitsISaIhEE9constructIhJhEEEvRS0_PT_DpOT0_
+                0x0000000000000000       0x39 obj/encryptedMessage.o
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEplEl
+                0x0000000000000000       0x5e obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEE13_M_insert_auxIhEEvN9__gnu_cxx17__normal_iteratorIPhS1_EEOT_
+                0x0000000000000000       0xb5 obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEE17_M_realloc_insertIJhEEEvN9__gnu_cxx17__normal_iteratorIPhS1_EEDpOT_
+                0x0000000000000000      0x1a1 obj/encryptedMessage.o
+ .text._ZSt7forwardIhEOT_RNSt16remove_referenceIS0_E4typeE
+                0x0000000000000000        0xe obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEE4backEv
+                0x0000000000000000       0x62 obj/encryptedMessage.o
+ .text._ZSt8distanceIPKcENSt15iterator_traitsIT_E15difference_typeES3_S3_
+                0x0000000000000000       0x31 obj/encryptedMessage.o
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tag
+                0x0000000000000000      0x139 obj/encryptedMessage.o
+ .text._ZNSaIhEC2ERKS_
+                0x0000000000000000       0x26 obj/encryptedMessage.o
+ .text._ZN9__gnu_cxxmiIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEENS_17__normal_iteratorIT_T0_E15difference_typeERKSB_SE_
+                0x0000000000000000       0x3b obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEE11_S_max_sizeERKS0_
+                0x0000000000000000       0x65 obj/encryptedMessage.o
+ .text._ZNSt16allocator_traitsISaIhEE8allocateERS0_m
+                0x0000000000000000       0x2a obj/encryptedMessage.o
+ .text._ZSt18uninitialized_copyIN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEPhET0_T_SC_SB_
+                0x0000000000000000       0x31 obj/encryptedMessage.o
+ .text._ZNSt12_Destroy_auxILb1EE9__destroyIPhEEvT_S3_
+                0x0000000000000000        0xf obj/encryptedMessage.o
+ .text._ZN9__gnu_cxx13new_allocatorIhE10deallocateEPhm
+                0x0000000000000000       0x29 obj/encryptedMessage.o
+ .text._ZSt12__niter_baseIPKhSt6vectorIhSaIhEEET_N9__gnu_cxx17__normal_iteratorIS5_T0_EE
+                0x0000000000000000       0x1d obj/encryptedMessage.o
+ .text._ZSt14__copy_move_a1ILb0EPKhPhET1_T0_S4_S3_
+                0x0000000000000000       0x2d obj/encryptedMessage.o
+ .text._ZSt12__niter_baseIPhET_S1_
+                0x0000000000000000        0xe obj/encryptedMessage.o
+ .text._ZSt12__niter_wrapIPhET_RKS1_S1_
+                0x0000000000000000       0x12 obj/encryptedMessage.o
+ .text._ZNSt20__uninitialized_copyILb1EE13__uninit_copyIN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEEPhEET0_T_SC_SB_
+                0x0000000000000000       0x2d obj/encryptedMessage.o
+ .text._ZNSt12_Vector_baseIhSaIhEE17_Vector_impl_data12_M_copy_dataERKS2_
+                0x0000000000000000       0x3d obj/encryptedMessage.o
+ .text._ZSt4moveIRSaIhEEONSt16remove_referenceIT_E4typeEOS3_
+                0x0000000000000000        0xe obj/encryptedMessage.o
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEE4baseEv
+                0x0000000000000000        0xe obj/encryptedMessage.o
+ .text._ZN9__gnu_cxx13new_allocatorIhE9constructIhJhEEEvPT_DpOT0_
+                0x0000000000000000       0x3e obj/encryptedMessage.o
+ .text._ZSt13move_backwardIPhS0_ET0_T_S2_S1_
+                0x0000000000000000       0x4b obj/encryptedMessage.o
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEdeEv
+                0x0000000000000000       0x11 obj/encryptedMessage.o
+ .text._ZNKSt6vectorIhSaIhEE12_M_check_lenEmPKc
+                0x0000000000000000       0xeb obj/encryptedMessage.o
+ .text._ZN9__gnu_cxxmiIPhSt6vectorIhSaIhEEEENS_17__normal_iteratorIT_T0_E15difference_typeERKS8_SB_
+                0x0000000000000000       0x3b obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEE11_S_relocateEPhS2_S2_RS0_
+                0x0000000000000000       0x32 obj/encryptedMessage.o
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEmiEl
+                0x0000000000000000       0x61 obj/encryptedMessage.o
+ .text._ZN9__gnu_cxx17__is_null_pointerIKcEEbPT_
+                0x0000000000000000       0x12 obj/encryptedMessage.o
+ .text._ZSt19__iterator_categoryIPKcENSt15iterator_traitsIT_E17iterator_categoryERKS3_
+                0x0000000000000000        0xa obj/encryptedMessage.o
+ .text._ZSt10__distanceIPKcENSt15iterator_traitsIT_E15difference_typeES3_S3_St26random_access_iterator_tag
+                0x0000000000000000       0x16 obj/encryptedMessage.o
+ .text._ZN9__gnu_cxx13new_allocatorIhEC2ERKS1_
+                0x0000000000000000        0xf obj/encryptedMessage.o
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE4baseEv
+                0x0000000000000000        0xe obj/encryptedMessage.o
+ .text._ZNSt16allocator_traitsISaIhEE8max_sizeERKS0_
+                0x0000000000000000       0x1a obj/encryptedMessage.o
+ .text._ZSt3minImERKT_S2_S2_
+                0x0000000000000000       0x2b obj/encryptedMessage.o
+ .text._ZNK9__gnu_cxx13new_allocatorIhE11_M_max_sizeEv
+                0x0000000000000000       0x14 obj/encryptedMessage.o
+ .text._ZN9__gnu_cxx13new_allocatorIhE8allocateEmPKv
+                0x0000000000000000       0x48 obj/encryptedMessage.o
+ .text._ZNSt20__uninitialized_copyILb1EE13__uninit_copyIN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEPhEET0_T_SE_SD_
+                0x0000000000000000       0x2d obj/encryptedMessage.o
+ .text._ZSt14__copy_move_a2ILb0EPKhPhET1_T0_S4_S3_
+                0x0000000000000000       0x2d obj/encryptedMessage.o
+ .text._ZSt4copyIN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEEPhET0_T_SA_S9_
+                0x0000000000000000       0x4b obj/encryptedMessage.o
+ .text._ZSt22__copy_move_backward_aILb1EPhS0_ET1_T0_S2_S1_
+                0x0000000000000000       0x6a obj/encryptedMessage.o
+ .text._ZNKSt6vectorIhSaIhEE8max_sizeEv
+                0x0000000000000000       0x22 obj/encryptedMessage.o
+ .text._ZSt3maxImERKT_S2_S2_
+                0x0000000000000000       0x2b obj/encryptedMessage.o
+ .text._ZNSt6vectorIhSaIhEE14_S_do_relocateEPhS2_S2_RS0_St17integral_constantIbLb1EE
+                0x0000000000000000       0x32 obj/encryptedMessage.o
+ .text._ZNK9__gnu_cxx13new_allocatorIhE8max_sizeEv
+                0x0000000000000000       0x1a obj/encryptedMessage.o
+ .text._ZSt4copyIN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEPhET0_T_SC_SB_
+                0x0000000000000000       0x4b obj/encryptedMessage.o
+ .text._ZNSt11__copy_moveILb0ELb1ESt26random_access_iterator_tagE8__copy_mIhEEPT_PKS3_S6_S4_
+                0x0000000000000000       0x4b obj/encryptedMessage.o
+ .text._ZSt13__copy_move_aILb0EN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEEPhET1_T0_SA_S9_
+                0x0000000000000000       0x6a obj/encryptedMessage.o
+ .text._ZSt23__copy_move_backward_a1ILb1EPhS0_ET1_T0_S2_S1_
+                0x0000000000000000       0x2d obj/encryptedMessage.o
+ .text._ZSt12__relocate_aIPhS0_SaIhEET0_T_S3_S2_RT1_
+                0x0000000000000000       0x63 obj/encryptedMessage.o
+ .text._ZSt12__miter_baseIN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEET_SA_
+                0x0000000000000000        0xe obj/encryptedMessage.o
+ .text._ZSt13__copy_move_aILb0EN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEPhET1_T0_SC_SB_
+                0x0000000000000000       0x6a obj/encryptedMessage.o
+ .text._ZSt23__copy_move_backward_a2ILb1EPhS0_ET1_T0_S2_S1_
+                0x0000000000000000       0x2d obj/encryptedMessage.o
+ .text._ZSt14__relocate_a_1IhhENSt9enable_ifIXsrSt24__is_bitwise_relocatableIT_vE5valueEPS2_E4typeES4_S4_S4_RSaIT0_E
+                0x0000000000000000       0x4f obj/encryptedMessage.o
+ .text._ZSt12__niter_baseIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEET_N9__gnu_cxx17__normal_iteratorIS7_T0_EE
+                0x0000000000000000       0x1d obj/encryptedMessage.o
+ .text._ZSt14__copy_move_a1ILb0EPcPhET1_T0_S3_S2_
+                0x0000000000000000       0x2d obj/encryptedMessage.o
+ .text._ZNSt20__copy_move_backwardILb1ELb1ESt26random_access_iterator_tagE13__copy_move_bIhEEPT_PKS3_S6_S4_
+                0x0000000000000000       0x5e obj/encryptedMessage.o
+ .text._ZSt14__copy_move_a2ILb0EPcPhET1_T0_S3_S2_
+                0x0000000000000000       0x2d obj/encryptedMessage.o
+ .text._ZNSt11__copy_moveILb0ELb0ESt26random_access_iterator_tagE8__copy_mIPcPhEET0_T_S6_S5_
+                0x0000000000000000       0x49 obj/encryptedMessage.o
+ .data.rel.local.DW.ref.__gxx_personality_v0
+                0x0000000000000000        0x8 obj/encryptedMessage.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 obj/encryptedMessage.o
+ .note.gnu.property
+                0x0000000000000000       0x30 obj/encryptedMessage.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0xc /tmp/ccWc9nhr.o
+ .text._ZnwmPv  0x0000000000000000       0x12 /tmp/ccWc9nhr.o
+ .text._ZNSt12_Vector_baseIhSaIhEE12_Vector_implD2Ev
+                0x0000000000000000       0x1b /tmp/ccWc9nhr.o
+ .text._ZNSt12_Vector_baseIhSaIhEEC2Ev
+                0x0000000000000000       0x1b /tmp/ccWc9nhr.o
+ .text._ZNSt6vectorIhSaIhEEC2Ev
+                0x0000000000000000       0x1b /tmp/ccWc9nhr.o
+ .text._ZNSt12_Vector_baseIhSaIhEE12_Vector_implC2Ev
+                0x0000000000000000       0x27 /tmp/ccWc9nhr.o
+ .text._ZNSaIhED2Ev
+                0x0000000000000000       0x1b /tmp/ccWc9nhr.o
+ .text._ZNSt12_Vector_baseIhSaIhEED2Ev
+                0x0000000000000000       0x49 /tmp/ccWc9nhr.o
+ .text._ZNSt6vectorIhSaIhEED2Ev
+                0x0000000000000000       0x44 /tmp/ccWc9nhr.o
+ .text._ZNSt6vectorIhSaIhEEC2ERKS1_
+                0x0000000000000000      0x113 /tmp/ccWc9nhr.o
+ .text._ZNSt6vectorIhSaIhEEaSEOS1_
+                0x0000000000000000       0x38 /tmp/ccWc9nhr.o
+ .text._ZNKSt6vectorIhSaIhEE4sizeEv
+                0x0000000000000000       0x1f /tmp/ccWc9nhr.o
+ .text._ZNSt6vectorIhSaIhEEixEm
+                0x0000000000000000       0x1c /tmp/ccWc9nhr.o
+ .text._ZNSt6vectorIhSaIhEE9push_backEOh
+                0x0000000000000000       0x31 /tmp/ccWc9nhr.o
+ .text._ZNSaIhEC2Ev
+                0x0000000000000000       0x1b /tmp/ccWc9nhr.o
+ .text._ZNSt12_Vector_baseIhSaIhEE17_Vector_impl_dataC2Ev
+                0x0000000000000000       0x2e /tmp/ccWc9nhr.o
+ .text._ZN9__gnu_cxx13new_allocatorIhED2Ev
+                0x0000000000000000        0xb /tmp/ccWc9nhr.o
+ .text._ZNSt12_Vector_baseIhSaIhEE13_M_deallocateEPhm
+                0x0000000000000000       0x35 /tmp/ccWc9nhr.o
+ .text._ZNSt12_Vector_baseIhSaIhEE19_M_get_Tp_allocatorEv
+                0x0000000000000000        0xe /tmp/ccWc9nhr.o
+ .text._ZSt8_DestroyIPhhEvT_S1_RSaIT0_E
+                0x0000000000000000       0x2a /tmp/ccWc9nhr.o
+ .text._ZN9__gnu_cxx14__alloc_traitsISaIhEhE17_S_select_on_copyERKS1_
+                0x0000000000000000       0x4c /tmp/ccWc9nhr.o
+ .text._ZNKSt12_Vector_baseIhSaIhEE19_M_get_Tp_allocatorEv
+                0x0000000000000000        0xe /tmp/ccWc9nhr.o
+ .text._ZNSt12_Vector_baseIhSaIhEEC2EmRKS0_
+                0x0000000000000000       0x5d /tmp/ccWc9nhr.o
+ .text._ZNKSt6vectorIhSaIhEE5beginEv
+                0x0000000000000000       0x48 /tmp/ccWc9nhr.o
+ .text._ZNKSt6vectorIhSaIhEE3endEv
+                0x0000000000000000       0x4c /tmp/ccWc9nhr.o
+ .text._ZSt22__uninitialized_copy_aIN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEEPhhET0_T_SA_S9_RSaIT1_E
+                0x0000000000000000       0x31 /tmp/ccWc9nhr.o
+ .text._ZSt4moveIRSt6vectorIhSaIhEEEONSt16remove_referenceIT_E4typeEOS5_
+                0x0000000000000000        0xe /tmp/ccWc9nhr.o
+ .text._ZNSt6vectorIhSaIhEE14_M_move_assignEOS1_St17integral_constantIbLb1EE
+                0x0000000000000000       0xc4 /tmp/ccWc9nhr.o
+ .text._ZSt4moveIRhEONSt16remove_referenceIT_E4typeEOS2_
+                0x0000000000000000        0xe /tmp/ccWc9nhr.o
+ .text._ZNSt6vectorIhSaIhEE12emplace_backIJhEEERhDpOT_
+                0x0000000000000000       0xa4 /tmp/ccWc9nhr.o
+ .text._ZNSaIhEC2ERKS_
+                0x0000000000000000       0x26 /tmp/ccWc9nhr.o
+ .text._ZN9__gnu_cxx13new_allocatorIhEC2Ev
+                0x0000000000000000        0xb /tmp/ccWc9nhr.o
+ .text._ZNSt16allocator_traitsISaIhEE10deallocateERS0_Phm
+                0x0000000000000000       0x2e /tmp/ccWc9nhr.o
+ .text._ZSt8_DestroyIPhEvT_S1_
+                0x0000000000000000       0x26 /tmp/ccWc9nhr.o
+ .text._ZNSt16allocator_traitsISaIhEE37select_on_container_copy_constructionERKS0_
+                0x0000000000000000       0x29 /tmp/ccWc9nhr.o
+ .text._ZNSt12_Vector_baseIhSaIhEE12_Vector_implC2ERKS0_
+                0x0000000000000000       0x32 /tmp/ccWc9nhr.o
+ .text._ZNSt12_Vector_baseIhSaIhEE17_M_create_storageEm
+                0x0000000000000000       0x52 /tmp/ccWc9nhr.o
+ .text._ZN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEC2ERKS2_
+                0x0000000000000000       0x1d /tmp/ccWc9nhr.o
+ .text._ZSt18uninitialized_copyIN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEEPhET0_T_SA_S9_
+                0x0000000000000000       0x31 /tmp/ccWc9nhr.o
+ .text._ZNKSt12_Vector_baseIhSaIhEE13get_allocatorEv
+                0x0000000000000000       0x34 /tmp/ccWc9nhr.o
+ .text._ZNSt6vectorIhSaIhEEC2ERKS0_
+                0x0000000000000000       0x26 /tmp/ccWc9nhr.o
+ .text._ZNSt12_Vector_baseIhSaIhEE17_Vector_impl_data12_M_swap_dataERS2_
+                0x0000000000000000       0x7b /tmp/ccWc9nhr.o
+ .text._ZSt15__alloc_on_moveISaIhEEvRT_S2_
+                0x0000000000000000       0x1f /tmp/ccWc9nhr.o
+ .text._ZSt7forwardIhEOT_RNSt16remove_referenceIS0_E4typeE
+                0x0000000000000000        0xe /tmp/ccWc9nhr.o
+ .text._ZNSt16allocator_traitsISaIhEE9constructIhJhEEEvRS0_PT_DpOT0_
+                0x0000000000000000       0x39 /tmp/ccWc9nhr.o
+ .text._ZNSt6vectorIhSaIhEE3endEv
+                0x0000000000000000       0x4c /tmp/ccWc9nhr.o
+ .text._ZNSt6vectorIhSaIhEE17_M_realloc_insertIJhEEEvN9__gnu_cxx17__normal_iteratorIPhS1_EEDpOT_
+                0x0000000000000000      0x1a1 /tmp/ccWc9nhr.o
+ .text._ZNSt6vectorIhSaIhEE4backEv
+                0x0000000000000000       0x62 /tmp/ccWc9nhr.o
+ .text._ZN9__gnu_cxx13new_allocatorIhEC2ERKS1_
+                0x0000000000000000        0xf /tmp/ccWc9nhr.o
+ .text._ZN9__gnu_cxx13new_allocatorIhE10deallocateEPhm
+                0x0000000000000000       0x29 /tmp/ccWc9nhr.o
+ .text._ZNSt12_Destroy_auxILb1EE9__destroyIPhEEvT_S3_
+                0x0000000000000000        0xf /tmp/ccWc9nhr.o
+ .text._ZNSt12_Vector_baseIhSaIhEE11_M_allocateEm
+                0x0000000000000000       0x33 /tmp/ccWc9nhr.o
+ .text._ZNSt20__uninitialized_copyILb1EE13__uninit_copyIN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEEPhEET0_T_SC_SB_
+                0x0000000000000000       0x2d /tmp/ccWc9nhr.o
+ .text._ZNSt12_Vector_baseIhSaIhEEC2ERKS0_
+                0x0000000000000000       0x26 /tmp/ccWc9nhr.o
+ .text._ZNSt12_Vector_baseIhSaIhEE17_Vector_impl_data12_M_copy_dataERKS2_
+                0x0000000000000000       0x3d /tmp/ccWc9nhr.o
+ .text._ZSt4moveIRSaIhEEONSt16remove_referenceIT_E4typeEOS3_
+                0x0000000000000000        0xe /tmp/ccWc9nhr.o
+ .text._ZN9__gnu_cxx13new_allocatorIhE9constructIhJhEEEvPT_DpOT0_
+                0x0000000000000000       0x3e /tmp/ccWc9nhr.o
+ .text._ZN9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEC2ERKS1_
+                0x0000000000000000       0x1d /tmp/ccWc9nhr.o
+ .text._ZNKSt6vectorIhSaIhEE12_M_check_lenEmPKc
+                0x0000000000000000       0xeb /tmp/ccWc9nhr.o
+ .text._ZNSt6vectorIhSaIhEE5beginEv
+                0x0000000000000000       0x48 /tmp/ccWc9nhr.o
+ .text._ZN9__gnu_cxxmiIPhSt6vectorIhSaIhEEEENS_17__normal_iteratorIT_T0_E15difference_typeERKS8_SB_
+                0x0000000000000000       0x3b /tmp/ccWc9nhr.o
+ .text._ZNSt6vectorIhSaIhEE11_S_relocateEPhS2_S2_RS0_
+                0x0000000000000000       0x32 /tmp/ccWc9nhr.o
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEE4baseEv
+                0x0000000000000000        0xe /tmp/ccWc9nhr.o
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEmiEl
+                0x0000000000000000       0x61 /tmp/ccWc9nhr.o
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEdeEv
+                0x0000000000000000       0x11 /tmp/ccWc9nhr.o
+ .text._ZNSt16allocator_traitsISaIhEE8allocateERS0_m
+                0x0000000000000000       0x2a /tmp/ccWc9nhr.o
+ .text._ZSt4copyIN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEEPhET0_T_SA_S9_
+                0x0000000000000000       0x4b /tmp/ccWc9nhr.o
+ .text._ZNKSt6vectorIhSaIhEE8max_sizeEv
+                0x0000000000000000       0x22 /tmp/ccWc9nhr.o
+ .text._ZSt3maxImERKT_S2_S2_
+                0x0000000000000000       0x2b /tmp/ccWc9nhr.o
+ .text._ZNSt6vectorIhSaIhEE14_S_do_relocateEPhS2_S2_RS0_St17integral_constantIbLb1EE
+                0x0000000000000000       0x32 /tmp/ccWc9nhr.o
+ .text._ZNK9__gnu_cxx13new_allocatorIhE11_M_max_sizeEv
+                0x0000000000000000       0x14 /tmp/ccWc9nhr.o
+ .text._ZN9__gnu_cxx13new_allocatorIhE8allocateEmPKv
+                0x0000000000000000       0x48 /tmp/ccWc9nhr.o
+ .text._ZSt12__miter_baseIN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEEET_S8_
+                0x0000000000000000        0xe /tmp/ccWc9nhr.o
+ .text._ZSt13__copy_move_aILb0EN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEEPhET1_T0_SA_S9_
+                0x0000000000000000       0x6a /tmp/ccWc9nhr.o
+ .text._ZNSt6vectorIhSaIhEE11_S_max_sizeERKS0_
+                0x0000000000000000       0x65 /tmp/ccWc9nhr.o
+ .text._ZSt12__relocate_aIPhS0_SaIhEET0_T_S3_S2_RT1_
+                0x0000000000000000       0x63 /tmp/ccWc9nhr.o
+ .text._ZSt12__niter_baseIPKhSt6vectorIhSaIhEEET_N9__gnu_cxx17__normal_iteratorIS5_T0_EE
+                0x0000000000000000       0x1d /tmp/ccWc9nhr.o
+ .text._ZSt12__niter_baseIPhET_S1_
+                0x0000000000000000        0xe /tmp/ccWc9nhr.o
+ .text._ZSt14__copy_move_a1ILb0EPKhPhET1_T0_S4_S3_
+                0x0000000000000000       0x2d /tmp/ccWc9nhr.o
+ .text._ZSt12__niter_wrapIPhET_RKS1_S1_
+                0x0000000000000000       0x12 /tmp/ccWc9nhr.o
+ .text._ZNSt16allocator_traitsISaIhEE8max_sizeERKS0_
+                0x0000000000000000       0x1a /tmp/ccWc9nhr.o
+ .text._ZSt3minImERKT_S2_S2_
+                0x0000000000000000       0x2b /tmp/ccWc9nhr.o
+ .text._ZSt14__relocate_a_1IhhENSt9enable_ifIXsrSt24__is_bitwise_relocatableIT_vE5valueEPS2_E4typeES4_S4_S4_RSaIT0_E
+                0x0000000000000000       0x4f /tmp/ccWc9nhr.o
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEE4baseEv
+                0x0000000000000000        0xe /tmp/ccWc9nhr.o
+ .text._ZSt14__copy_move_a2ILb0EPKhPhET1_T0_S4_S3_
+                0x0000000000000000       0x2d /tmp/ccWc9nhr.o
+ .text._ZNK9__gnu_cxx13new_allocatorIhE8max_sizeEv
+                0x0000000000000000       0x1a /tmp/ccWc9nhr.o
+ .text._ZNSt11__copy_moveILb0ELb1ESt26random_access_iterator_tagE8__copy_mIhEEPT_PKS3_S6_S4_
+                0x0000000000000000       0x4b /tmp/ccWc9nhr.o
+ .data.rel.local.DW.ref.__gxx_personality_v0
+                0x0000000000000000        0x8 /tmp/ccWc9nhr.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccWc9nhr.o
+ .note.gnu.property
+                0x0000000000000000       0x30 /tmp/ccWc9nhr.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .group         0x0000000000000000        0xc /tmp/ccn4qrlJ.o
+ .text._ZnwmPv  0x0000000000000000       0x12 /tmp/ccn4qrlJ.o
+ .text._ZNSt11char_traitsIcE6lengthEPKc
+                0x0000000000000000       0x3a /tmp/ccn4qrlJ.o
+ .text._ZNSt12_Vector_baseIhSaIhEE12_Vector_implD2Ev
+                0x0000000000000000       0x1b /tmp/ccn4qrlJ.o
+ .text._ZNSt12_Vector_baseIhSaIhEEC2Ev
+                0x0000000000000000       0x1b /tmp/ccn4qrlJ.o
+ .text._ZNSt6vectorIhSaIhEEC2Ev
+                0x0000000000000000       0x1b /tmp/ccn4qrlJ.o
+ .text._ZNSt12_Vector_baseIhSaIhEEC2EOS1_
+                0x0000000000000000       0x26 /tmp/ccn4qrlJ.o
+ .text._ZNSt6vectorIhSaIhEEC2EOS1_
+                0x0000000000000000       0x26 /tmp/ccn4qrlJ.o
+ .text._ZN9__gnu_cxx11char_traitsIcE2eqERKcS3_
+                0x0000000000000000       0x21 /tmp/ccn4qrlJ.o
+ .text._ZN9__gnu_cxx11char_traitsIcE6lengthEPKc
+                0x0000000000000000       0x69 /tmp/ccn4qrlJ.o
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_Alloc_hiderD2Ev
+                0x0000000000000000       0x1b /tmp/ccn4qrlJ.o
+ .text._ZNSt12_Vector_baseIhSaIhEE12_Vector_implC2Ev
+                0x0000000000000000       0x27 /tmp/ccn4qrlJ.o
+ .text._ZNSaIhED2Ev
+                0x0000000000000000       0x1b /tmp/ccn4qrlJ.o
+ .text._ZNSt12_Vector_baseIhSaIhEED2Ev
+                0x0000000000000000       0x49 /tmp/ccn4qrlJ.o
+ .text._ZNSt6vectorIhSaIhEED2Ev
+                0x0000000000000000       0x44 /tmp/ccn4qrlJ.o
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2IS3_EEPKcRKS3_
+                0x0000000000000000       0x93 /tmp/ccn4qrlJ.o
+ .text._ZNKSt6vectorIhSaIhEE4sizeEv
+                0x0000000000000000       0x1f /tmp/ccn4qrlJ.o
+ .text._ZNSt6vectorIhSaIhEEixEm
+                0x0000000000000000       0x1c /tmp/ccn4qrlJ.o
+ .text._ZNSt6vectorIhSaIhEE9push_backEOh
+                0x0000000000000000       0x31 /tmp/ccn4qrlJ.o
+ .text._ZNSt12_Vector_baseIhSaIhEE12_Vector_implC2EOS2_
+                0x0000000000000000       0x51 /tmp/ccn4qrlJ.o
+ .text._ZNSt6vectorIhSaIhEE5beginEv
+                0x0000000000000000       0x48 /tmp/ccn4qrlJ.o
+ .text._ZN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEC2IPhEERKNS0_IT_NS_11__enable_ifIXsrSt10__are_sameIS9_S8_E7__valueES5_E6__typeEEE
+                0x0000000000000000       0x29 /tmp/ccn4qrlJ.o
+ .text._ZNSt6vectorIhSaIhEE6insertEN9__gnu_cxx17__normal_iteratorIPKhS1_EEOh
+                0x0000000000000000       0x38 /tmp/ccn4qrlJ.o
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_
+                0x0000000000000000       0x2e /tmp/ccn4qrlJ.o
+ .text._ZNSaIhEC2Ev
+                0x0000000000000000       0x1b /tmp/ccn4qrlJ.o
+ .text._ZNSt12_Vector_baseIhSaIhEE17_Vector_impl_dataC2Ev
+                0x0000000000000000       0x2e /tmp/ccn4qrlJ.o
+ .text._ZN9__gnu_cxx13new_allocatorIhED2Ev
+                0x0000000000000000        0xb /tmp/ccn4qrlJ.o
+ .text._ZNSt12_Vector_baseIhSaIhEE13_M_deallocateEPhm
+                0x0000000000000000       0x35 /tmp/ccn4qrlJ.o
+ .text._ZNSt12_Vector_baseIhSaIhEE19_M_get_Tp_allocatorEv
+                0x0000000000000000        0xe /tmp/ccn4qrlJ.o
+ .text._ZSt8_DestroyIPhhEvT_S1_RSaIT0_E
+                0x0000000000000000       0x2a /tmp/ccn4qrlJ.o
+ .text._ZSt4moveIRhEONSt16remove_referenceIT_E4typeEOS2_
+                0x0000000000000000        0xe /tmp/ccn4qrlJ.o
+ .text._ZNSt6vectorIhSaIhEE12emplace_backIJhEEERhDpOT_
+                0x0000000000000000       0xa4 /tmp/ccn4qrlJ.o
+ .text._ZSt4moveIRNSt12_Vector_baseIhSaIhEE12_Vector_implEEONSt16remove_referenceIT_E4typeEOS6_
+                0x0000000000000000        0xe /tmp/ccn4qrlJ.o
+ .text._ZNSaIhEC2ERKS_
+                0x0000000000000000       0x26 /tmp/ccn4qrlJ.o
+ .text._ZNSt12_Vector_baseIhSaIhEE17_Vector_impl_dataC2EOS2_
+                0x0000000000000000       0x68 /tmp/ccn4qrlJ.o
+ .text._ZN9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEC2ERKS1_
+                0x0000000000000000       0x1d /tmp/ccn4qrlJ.o
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEE4baseEv
+                0x0000000000000000        0xe /tmp/ccn4qrlJ.o
+ .text._ZNSt6vectorIhSaIhEE14_M_insert_rvalEN9__gnu_cxx17__normal_iteratorIPKhS1_EEOh
+                0x0000000000000000      0x19d /tmp/ccn4qrlJ.o
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE16_M_construct_auxIPKcEEvT_S8_St12__false_type
+                0x0000000000000000       0x51 /tmp/ccn4qrlJ.o
+ .text._ZN9__gnu_cxx13new_allocatorIhEC2Ev
+                0x0000000000000000        0xb /tmp/ccn4qrlJ.o
+ .text._ZNSt16allocator_traitsISaIhEE10deallocateERS0_Phm
+                0x0000000000000000       0x2e /tmp/ccn4qrlJ.o
+ .text._ZSt8_DestroyIPhEvT_S1_
+                0x0000000000000000       0x26 /tmp/ccn4qrlJ.o
+ .text._ZSt7forwardIhEOT_RNSt16remove_referenceIS0_E4typeE
+                0x0000000000000000        0xe /tmp/ccn4qrlJ.o
+ .text._ZNSt16allocator_traitsISaIhEE9constructIhJhEEEvRS0_PT_DpOT0_
+                0x0000000000000000       0x39 /tmp/ccn4qrlJ.o
+ .text._ZNSt6vectorIhSaIhEE3endEv
+                0x0000000000000000       0x4c /tmp/ccn4qrlJ.o
+ .text._ZNSt6vectorIhSaIhEE17_M_realloc_insertIJhEEEvN9__gnu_cxx17__normal_iteratorIPhS1_EEDpOT_
+                0x0000000000000000      0x1a1 /tmp/ccn4qrlJ.o
+ .text._ZNSt6vectorIhSaIhEE4backEv
+                0x0000000000000000       0x62 /tmp/ccn4qrlJ.o
+ .text._ZN9__gnu_cxx13new_allocatorIhEC2ERKS1_
+                0x0000000000000000        0xf /tmp/ccn4qrlJ.o
+ .text._ZNKSt6vectorIhSaIhEE6cbeginEv
+                0x0000000000000000       0x48 /tmp/ccn4qrlJ.o
+ .text._ZN9__gnu_cxxmiIPKhSt6vectorIhSaIhEEEENS_17__normal_iteratorIT_T0_E15difference_typeERKS9_SC_
+                0x0000000000000000       0x3b /tmp/ccn4qrlJ.o
+ .text._ZNKSt6vectorIhSaIhEE4cendEv
+                0x0000000000000000       0x4c /tmp/ccn4qrlJ.o
+ .text._ZN9__gnu_cxxeqIPKhSt6vectorIhSaIhEEEEbRKNS_17__normal_iteratorIT_T0_EESB_
+                0x0000000000000000       0x3b /tmp/ccn4qrlJ.o
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEplEl
+                0x0000000000000000       0x5e /tmp/ccn4qrlJ.o
+ .text._ZNSt6vectorIhSaIhEE13_M_insert_auxIhEEvN9__gnu_cxx17__normal_iteratorIPhS1_EEOT_
+                0x0000000000000000       0xb5 /tmp/ccn4qrlJ.o
+ .text._ZSt8distanceIPKcENSt15iterator_traitsIT_E15difference_typeES3_S3_
+                0x0000000000000000       0x31 /tmp/ccn4qrlJ.o
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tag
+                0x0000000000000000      0x139 /tmp/ccn4qrlJ.o
+ .text._ZN9__gnu_cxx13new_allocatorIhE10deallocateEPhm
+                0x0000000000000000       0x29 /tmp/ccn4qrlJ.o
+ .text._ZNSt12_Destroy_auxILb1EE9__destroyIPhEEvT_S3_
+                0x0000000000000000        0xf /tmp/ccn4qrlJ.o
+ .text._ZN9__gnu_cxx13new_allocatorIhE9constructIhJhEEEvPT_DpOT0_
+                0x0000000000000000       0x3e /tmp/ccn4qrlJ.o
+ .text._ZNKSt6vectorIhSaIhEE12_M_check_lenEmPKc
+                0x0000000000000000       0xeb /tmp/ccn4qrlJ.o
+ .text._ZN9__gnu_cxxmiIPhSt6vectorIhSaIhEEEENS_17__normal_iteratorIT_T0_E15difference_typeERKS8_SB_
+                0x0000000000000000       0x3b /tmp/ccn4qrlJ.o
+ .text._ZNSt12_Vector_baseIhSaIhEE11_M_allocateEm
+                0x0000000000000000       0x33 /tmp/ccn4qrlJ.o
+ .text._ZNSt6vectorIhSaIhEE11_S_relocateEPhS2_S2_RS0_
+                0x0000000000000000       0x32 /tmp/ccn4qrlJ.o
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEmiEl
+                0x0000000000000000       0x61 /tmp/ccn4qrlJ.o
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEdeEv
+                0x0000000000000000       0x11 /tmp/ccn4qrlJ.o
+ .text._ZN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEC2ERKS2_
+                0x0000000000000000       0x1d /tmp/ccn4qrlJ.o
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEE4baseEv
+                0x0000000000000000        0xe /tmp/ccn4qrlJ.o
+ .text._ZSt13move_backwardIPhS0_ET0_T_S2_S1_
+                0x0000000000000000       0x4b /tmp/ccn4qrlJ.o
+ .text._ZN9__gnu_cxx17__is_null_pointerIKcEEbPT_
+                0x0000000000000000       0x12 /tmp/ccn4qrlJ.o
+ .text._ZSt19__iterator_categoryIPKcENSt15iterator_traitsIT_E17iterator_categoryERKS3_
+                0x0000000000000000        0xa /tmp/ccn4qrlJ.o
+ .text._ZSt10__distanceIPKcENSt15iterator_traitsIT_E15difference_typeES3_S3_St26random_access_iterator_tag
+                0x0000000000000000       0x16 /tmp/ccn4qrlJ.o
+ .text._ZNKSt6vectorIhSaIhEE8max_sizeEv
+                0x0000000000000000       0x22 /tmp/ccn4qrlJ.o
+ .text._ZSt3maxImERKT_S2_S2_
+                0x0000000000000000       0x2b /tmp/ccn4qrlJ.o
+ .text._ZNSt16allocator_traitsISaIhEE8allocateERS0_m
+                0x0000000000000000       0x2a /tmp/ccn4qrlJ.o
+ .text._ZNSt6vectorIhSaIhEE14_S_do_relocateEPhS2_S2_RS0_St17integral_constantIbLb1EE
+                0x0000000000000000       0x32 /tmp/ccn4qrlJ.o
+ .text._ZSt12__miter_baseIPhET_S1_
+                0x0000000000000000        0xe /tmp/ccn4qrlJ.o
+ .text._ZSt22__copy_move_backward_aILb1EPhS0_ET1_T0_S2_S1_
+                0x0000000000000000       0x6a /tmp/ccn4qrlJ.o
+ .text._ZNSt6vectorIhSaIhEE11_S_max_sizeERKS0_
+                0x0000000000000000       0x65 /tmp/ccn4qrlJ.o
+ .text._ZNKSt12_Vector_baseIhSaIhEE19_M_get_Tp_allocatorEv
+                0x0000000000000000        0xe /tmp/ccn4qrlJ.o
+ .text._ZNK9__gnu_cxx13new_allocatorIhE11_M_max_sizeEv
+                0x0000000000000000       0x14 /tmp/ccn4qrlJ.o
+ .text._ZN9__gnu_cxx13new_allocatorIhE8allocateEmPKv
+                0x0000000000000000       0x48 /tmp/ccn4qrlJ.o
+ .text._ZSt12__relocate_aIPhS0_SaIhEET0_T_S3_S2_RT1_
+                0x0000000000000000       0x63 /tmp/ccn4qrlJ.o
+ .text._ZSt12__niter_baseIPhET_S1_
+                0x0000000000000000        0xe /tmp/ccn4qrlJ.o
+ .text._ZSt23__copy_move_backward_a1ILb1EPhS0_ET1_T0_S2_S1_
+                0x0000000000000000       0x2d /tmp/ccn4qrlJ.o
+ .text._ZSt12__niter_wrapIPhET_RKS1_S1_
+                0x0000000000000000       0x12 /tmp/ccn4qrlJ.o
+ .text._ZNSt16allocator_traitsISaIhEE8max_sizeERKS0_
+                0x0000000000000000       0x1a /tmp/ccn4qrlJ.o
+ .text._ZSt3minImERKT_S2_S2_
+                0x0000000000000000       0x2b /tmp/ccn4qrlJ.o
+ .text._ZSt14__relocate_a_1IhhENSt9enable_ifIXsrSt24__is_bitwise_relocatableIT_vE5valueEPS2_E4typeES4_S4_S4_RSaIT0_E
+                0x0000000000000000       0x4f /tmp/ccn4qrlJ.o
+ .text._ZSt23__copy_move_backward_a2ILb1EPhS0_ET1_T0_S2_S1_
+                0x0000000000000000       0x2d /tmp/ccn4qrlJ.o
+ .text._ZNK9__gnu_cxx13new_allocatorIhE8max_sizeEv
+                0x0000000000000000       0x1a /tmp/ccn4qrlJ.o
+ .text._ZNSt20__copy_move_backwardILb1ELb1ESt26random_access_iterator_tagE13__copy_move_bIhEEPT_PKS3_S6_S4_
+                0x0000000000000000       0x5e /tmp/ccn4qrlJ.o
+ .data.rel.local.DW.ref.__gxx_personality_v0
+                0x0000000000000000        0x8 /tmp/ccn4qrlJ.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccn4qrlJ.o
+ .note.gnu.property
+                0x0000000000000000       0x30 /tmp/ccn4qrlJ.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/libc_nonshared.a(elf-init.oS)
+ .note.gnu.property
+                0x0000000000000000       0x50 /usr/lib/libc_nonshared.a(elf-init.oS)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtendS.o
+ .note.gnu.property
+                0x0000000000000000       0x50 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtendS.o
+ .note.gnu.property
+                0x0000000000000000       0x50 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+LOAD /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/crti.o
+LOAD /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtbeginS.o
+LOAD obj/test.o
+LOAD obj/encryptedMessage.o
+LOAD /tmp/ccWc9nhr.o
+LOAD /tmp/ccn4qrlJ.o
+LOAD /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/libm.so
+START GROUP
+LOAD /usr/lib/libm.so.6
+LOAD /usr/lib/libmvec.so.1
+END GROUP
+LOAD /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/libgcc.a
+LOAD /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/libc.so
+START GROUP
+LOAD /usr/lib/libc.so.6
+LOAD /usr/lib/libc_nonshared.a
+LOAD /usr/lib/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/libgcc.a
+LOAD /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtendS.o
+LOAD /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/crtn.o
+                [!provide]                        PROVIDE (__executable_start = SEGMENT_START ("text-segment", 0x0))
+                0x0000000000000318                . = (SEGMENT_START ("text-segment", 0x0) + SIZEOF_HEADERS)
+
+.interp         0x0000000000000318       0x1c
+ *(.interp)
+ .interp        0x0000000000000318       0x1c /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+
+.note.gnu.property
+                0x0000000000000338       0x40
+ .note.gnu.property
+                0x0000000000000338       0x40 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+
+.note.gnu.build-id
+                0x0000000000000378       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000000378       0x24 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+
+.note.ABI-tag   0x000000000000039c       0x20
+ .note.ABI-tag  0x000000000000039c       0x20 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000003c0       0x30
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000003c0       0x30 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+
+.dynsym         0x00000000000003f0      0x4f8
+ *(.dynsym)
+ .dynsym        0x00000000000003f0      0x4f8 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+
+.dynstr         0x00000000000008e8      0x888
+ *(.dynstr)
+ .dynstr        0x00000000000008e8      0x888 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+
+.gnu.version    0x0000000000001170       0x6a
+ *(.gnu.version)
+ .gnu.version   0x0000000000001170       0x6a /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+
+.gnu.version_d  0x00000000000011e0        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000000011e0        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+
+.gnu.version_r  0x00000000000011e0       0xa0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000000011e0       0xa0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+
+.rela.dyn       0x0000000000001280      0x198
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000001280        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel.ro
+                0x0000000000001280        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+ .rela.data.rel.local
+                0x0000000000001280       0x18 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+ .rela.data.rel.local.DW.ref.__gxx_personality_v0
+                0x0000000000001298       0x18 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x00000000000012b0       0xa8 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ .rela.bss      0x0000000000001358       0x30 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000001388        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+ .rela.fini_array
+                0x0000000000001388       0x18 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+ .rela.init_array
+                0x00000000000013a0       0x78 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+ .rela.eh_frame
+                0x0000000000001418        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+
+.rela.plt       0x0000000000001418      0x3d8
+ *(.rela.plt)
+ .rela.plt      0x0000000000001418      0x3d8 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+ *(.rela.iplt)
+                0x0000000000002000                . = ALIGN (CONSTANT (MAXPAGESIZE))
+
+.init           0x0000000000002000       0x1b
+ *(SORT_NONE(.init))
+ .init          0x0000000000002000       0x16 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/crti.o
+                0x0000000000002000                _init
+ .init          0x0000000000002016        0x5 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/crtn.o
+
+.plt            0x0000000000002020      0x2a0
+ *(.plt)
+ .plt           0x0000000000002020      0x2a0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+                0x0000000000002030                std::allocator<char>::~allocator()@@GLIBCXX_3.4
+                0x0000000000002040                std::__throw_bad_alloc()@@GLIBCXX_3.4
+                0x0000000000002050                __cxa_begin_catch@@CXXABI_1.3
+                0x0000000000002060                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)@@GLIBCXX_3.4.21
+                0x0000000000002070                strlen@@GLIBC_2.2.5
+                0x0000000000002080                memcmp@@GLIBC_2.2.5
+                0x0000000000002090                std::__throw_length_error(char const*)@@GLIBCXX_3.4
+                0x00000000000020a0                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::end()@@GLIBCXX_3.4.21
+                0x00000000000020b0                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&&)@@GLIBCXX_3.4.21
+                0x00000000000020c0                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::~basic_string()@@GLIBCXX_3.4.21
+                0x00000000000020d0                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_set_length(unsigned long)@@GLIBCXX_3.4.21
+                0x00000000000020e0                std::__throw_logic_error(char const*)@@GLIBCXX_3.4
+                0x00000000000020f0                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_local_data()@@GLIBCXX_3.4.21
+                0x0000000000002100                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_data(char*)@@GLIBCXX_3.4.21
+                0x0000000000002110                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::begin()@@GLIBCXX_3.4.21
+                0x0000000000002120                __cxa_atexit@@GLIBC_2.2.5
+                0x0000000000002130                std::basic_ostream<char, std::char_traits<char> >& std::operator<< <char, std::char_traits<char>, std::allocator<char> >(std::basic_ostream<char, std::char_traits<char> >&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)@@GLIBCXX_3.4.21
+                0x0000000000002140                std::basic_ostream<char, std::char_traits<char> >& std::operator<< <std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*)@@GLIBCXX_3.4
+                0x0000000000002150                operator new(unsigned long)@@GLIBCXX_3.4
+                0x0000000000002160                operator delete(void*, unsigned long)@@CXXABI_1.3.9
+                0x0000000000002170                std::ostream::operator<<(std::ostream& (*)(std::ostream&))@@GLIBCXX_3.4
+                0x0000000000002180                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_Alloc_hider::_Alloc_hider(char*, std::allocator<char> const&)@@GLIBCXX_3.4.21
+                0x0000000000002190                std::allocator<char>::~allocator()@@GLIBCXX_3.4
+                0x00000000000021a0                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_data() const@@GLIBCXX_3.4.21
+                0x00000000000021b0                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_S_copy_chars(char*, char const*, char const*)@@GLIBCXX_3.4.21
+                0x00000000000021c0                __stack_chk_fail@@GLIBC_2.4
+                0x00000000000021d0                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_dispose()@@GLIBCXX_3.4.21
+                0x00000000000021e0                std::basic_istream<char, std::char_traits<char> >& std::operator>><char, std::char_traits<char>, std::allocator<char> >(std::basic_istream<char, std::char_traits<char> >&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&)@@GLIBCXX_3.4.21
+                0x00000000000021f0                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::operator=(char const*)@@GLIBCXX_3.4.21
+                0x0000000000002200                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string()@@GLIBCXX_3.4.21
+                0x0000000000002210                __cxa_rethrow@@CXXABI_1.3
+                0x0000000000002220                std::basic_ostream<char, std::char_traits<char> >& std::operator<< <std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, unsigned char)@@GLIBCXX_3.4
+                0x0000000000002230                std::ios_base::Init::Init()@@GLIBCXX_3.4
+                0x0000000000002240                memmove@@GLIBC_2.2.5
+                0x0000000000002250                __cxa_end_catch@@CXXABI_1.3
+                0x0000000000002260                std::ostream::operator<<(int)@@GLIBCXX_3.4
+                0x0000000000002270                _Unwind_Resume@@GCC_3.0
+                0x0000000000002280                std::allocator<char>::allocator()@@GLIBCXX_3.4
+                0x0000000000002290                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_create(unsigned long&, unsigned long)@@GLIBCXX_3.4.21
+                0x00000000000022a0                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_capacity(unsigned long)@@GLIBCXX_3.4.21
+                0x00000000000022b0                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::operator[](unsigned long)@@GLIBCXX_3.4.21
+ *(.iplt)
+
+.plt.got        0x00000000000022c0        0x0
+ *(.plt.got)
+ .plt.got       0x00000000000022c0        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x00000000000022c0     0x5865
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(SORT_BY_NAME(.text.sorted.*))
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00000000000022c0       0x2f /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+                0x00000000000022c0                _start
+ .text          0x00000000000022ef        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/crti.o
+ *fill*         0x00000000000022ef        0x1 
+ .text          0x00000000000022f0       0xc9 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtbeginS.o
+ .text          0x00000000000023b9      0xc35 obj/test.o
+                0x00000000000023b9                defaultTest()
+                0x0000000000002bcb                expectedOutputTest()
+ .text._ZnwmPv  0x0000000000002fee       0x12 obj/test.o
+                0x0000000000002fee                operator new(unsigned long, void*)
+ .text._ZNSt11char_traitsIcE6lengthEPKc
+                0x0000000000003000       0x3a obj/test.o
+                0x0000000000003000                std::char_traits<char>::length(char const*)
+ .text._ZNSt12_Vector_baseIhSaIhEE12_Vector_implD2Ev
+                0x000000000000303a       0x1b obj/test.o
+                0x000000000000303a                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl::~_Vector_impl()
+                0x000000000000303a                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl::~_Vector_impl()
+ *fill*         0x0000000000003055        0x1 
+ .text._ZNSt12_Vector_baseIhSaIhEEC2Ev
+                0x0000000000003056       0x1b obj/test.o
+                0x0000000000003056                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_base()
+                0x0000000000003056                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_base()
+ *fill*         0x0000000000003071        0x1 
+ .text._ZNSt6vectorIhSaIhEEC2Ev
+                0x0000000000003072       0x1b obj/test.o
+                0x0000000000003072                std::vector<unsigned char, std::allocator<unsigned char> >::vector()
+                0x0000000000003072                std::vector<unsigned char, std::allocator<unsigned char> >::vector()
+ .text._ZN9__gnu_cxx11char_traitsIcE2eqERKcS3_
+                0x000000000000308d       0x21 obj/test.o
+                0x000000000000308d                __gnu_cxx::char_traits<char>::eq(char const&, char const&)
+ .text._ZN9__gnu_cxx11char_traitsIcE6lengthEPKc
+                0x00000000000030ae       0x69 obj/test.o
+                0x00000000000030ae                __gnu_cxx::char_traits<char>::length(char const*)
+ *fill*         0x0000000000003117        0x1 
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_Alloc_hiderD2Ev
+                0x0000000000003118       0x1b obj/test.o
+                0x0000000000003118                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_Alloc_hider::~_Alloc_hider()
+                0x0000000000003118                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_Alloc_hider::~_Alloc_hider()
+ *fill*         0x0000000000003133        0x1 
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2IS3_EEPKcRKS3_
+                0x0000000000003134       0x93 obj/test.o
+                0x0000000000003134                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string<std::allocator<char> >(char const*, std::allocator<char> const&)
+                0x0000000000003134                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string<std::allocator<char> >(char const*, std::allocator<char> const&)
+ *fill*         0x00000000000031c7        0x1 
+ .text._ZNSaIhEC2Ev
+                0x00000000000031c8       0x1b obj/test.o
+                0x00000000000031c8                std::allocator<unsigned char>::allocator()
+                0x00000000000031c8                std::allocator<unsigned char>::allocator()
+ *fill*         0x00000000000031e3        0x1 
+ .text._ZNSaIhED2Ev
+                0x00000000000031e4       0x1b obj/test.o
+                0x00000000000031e4                std::allocator<unsigned char>::~allocator()
+                0x00000000000031e4                std::allocator<unsigned char>::~allocator()
+ *fill*         0x00000000000031ff        0x1 
+ .text._ZNSt6vectorIhSaIhEEC2IN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEvEET_SD_RKS0_
+                0x0000000000003200       0x94 obj/test.o
+                0x0000000000003200                std::vector<unsigned char, std::allocator<unsigned char> >::vector<__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, void>(__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, __gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, std::allocator<unsigned char> const&)
+                0x0000000000003200                std::vector<unsigned char, std::allocator<unsigned char> >::vector<__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, void>(__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, __gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, std::allocator<unsigned char> const&)
+ .text._ZNSt6vectorIhSaIhEED2Ev
+                0x0000000000003294       0x44 obj/test.o
+                0x0000000000003294                std::vector<unsigned char, std::allocator<unsigned char> >::~vector()
+                0x0000000000003294                std::vector<unsigned char, std::allocator<unsigned char> >::~vector()
+ .text._ZNSt12_Vector_baseIhSaIhEE12_Vector_implC2Ev
+                0x00000000000032d8       0x27 obj/test.o
+                0x00000000000032d8                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl::_Vector_impl()
+                0x00000000000032d8                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl::_Vector_impl()
+ *fill*         0x00000000000032ff        0x1 
+ .text._ZNSt12_Vector_baseIhSaIhEED2Ev
+                0x0000000000003300       0x49 obj/test.o
+                0x0000000000003300                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::~_Vector_base()
+                0x0000000000003300                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::~_Vector_base()
+ *fill*         0x0000000000003349        0x1 
+ .text._ZNKSt6vectorIhSaIhEE4sizeEv
+                0x000000000000334a       0x1f obj/test.o
+                0x000000000000334a                std::vector<unsigned char, std::allocator<unsigned char> >::size() const
+ *fill*         0x0000000000003369        0x1 
+ .text._ZNSt6vectorIhSaIhEEixEm
+                0x000000000000336a       0x1c obj/test.o
+                0x000000000000336a                std::vector<unsigned char, std::allocator<unsigned char> >::operator[](unsigned long)
+ .text._ZNSt6vectorIhSaIhEEaSEOS1_
+                0x0000000000003386       0x38 obj/test.o
+                0x0000000000003386                std::vector<unsigned char, std::allocator<unsigned char> >::operator=(std::vector<unsigned char, std::allocator<unsigned char> >&&)
+ .text._ZNSt6vectorIhSaIhEE5beginEv
+                0x00000000000033be       0x48 obj/test.o
+                0x00000000000033be                std::vector<unsigned char, std::allocator<unsigned char> >::begin()
+ .text._ZN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEC2IPhEERKNS0_IT_NS_11__enable_ifIXsrSt10__are_sameIS9_S8_E7__valueES5_E6__typeEEE
+                0x0000000000003406       0x29 obj/test.o
+                0x0000000000003406                __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >::__normal_iterator<unsigned char*>(__gnu_cxx::__normal_iterator<unsigned char*, __gnu_cxx::__enable_if<std::__are_same<unsigned char*, unsigned char*>::__value, std::vector<unsigned char, std::allocator<unsigned char> > >::__type> const&)
+                0x0000000000003406                __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >::__normal_iterator<unsigned char*>(__gnu_cxx::__normal_iterator<unsigned char*, __gnu_cxx::__enable_if<std::__are_same<unsigned char*, unsigned char*>::__value, std::vector<unsigned char, std::allocator<unsigned char> > >::__type> const&)
+ *fill*         0x000000000000342f        0x1 
+ .text._ZNSt6vectorIhSaIhEE6insertEN9__gnu_cxx17__normal_iteratorIPKhS1_EEOh
+                0x0000000000003430       0x38 obj/test.o
+                0x0000000000003430                std::vector<unsigned char, std::allocator<unsigned char> >::insert(__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, unsigned char&&)
+ .text._ZNSt6vectorIhSaIhEE9push_backERKh
+                0x0000000000003468       0x7b obj/test.o
+                0x0000000000003468                std::vector<unsigned char, std::allocator<unsigned char> >::push_back(unsigned char const&)
+ *fill*         0x00000000000034e3        0x1 
+ .text._ZNSt6vectorIhSaIhEE9push_backEOh
+                0x00000000000034e4       0x31 obj/test.o
+                0x00000000000034e4                std::vector<unsigned char, std::allocator<unsigned char> >::push_back(unsigned char&&)
+ *fill*         0x0000000000003515        0x1 
+ .text._ZNSt6vectorIhSaIhEEC2ERKS1_
+                0x0000000000003516      0x113 obj/test.o
+                0x0000000000003516                std::vector<unsigned char, std::allocator<unsigned char> >::vector(std::vector<unsigned char, std::allocator<unsigned char> > const&)
+                0x0000000000003516                std::vector<unsigned char, std::allocator<unsigned char> >::vector(std::vector<unsigned char, std::allocator<unsigned char> > const&)
+ .text._ZSteqIhSaIhEEbRKSt6vectorIT_T0_ES6_
+                0x0000000000003629       0x84 obj/test.o
+                0x0000000000003629                bool std::operator==<unsigned char, std::allocator<unsigned char> >(std::vector<unsigned char, std::allocator<unsigned char> > const&, std::vector<unsigned char, std::allocator<unsigned char> > const&)
+ *fill*         0x00000000000036ad        0x1 
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_
+                0x00000000000036ae       0x2e obj/test.o
+                0x00000000000036ae                void std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct<char const*>(char const*, char const*)
+ .text._ZN9__gnu_cxx13new_allocatorIhEC2Ev
+                0x00000000000036dc        0xb obj/test.o
+                0x00000000000036dc                __gnu_cxx::new_allocator<unsigned char>::new_allocator()
+                0x00000000000036dc                __gnu_cxx::new_allocator<unsigned char>::new_allocator()
+ *fill*         0x00000000000036e7        0x1 
+ .text._ZN9__gnu_cxx13new_allocatorIhED2Ev
+                0x00000000000036e8        0xb obj/test.o
+                0x00000000000036e8                __gnu_cxx::new_allocator<unsigned char>::~new_allocator()
+                0x00000000000036e8                __gnu_cxx::new_allocator<unsigned char>::~new_allocator()
+ *fill*         0x00000000000036f3        0x1 
+ .text._ZNSt12_Vector_baseIhSaIhEEC2ERKS0_
+                0x00000000000036f4       0x26 obj/test.o
+                0x00000000000036f4                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_base(std::allocator<unsigned char> const&)
+                0x00000000000036f4                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_base(std::allocator<unsigned char> const&)
+ .text._ZSt19__iterator_categoryIN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEENSt15iterator_traitsIT_E17iterator_categoryERKSB_
+                0x000000000000371a        0xa obj/test.o
+                0x000000000000371a                std::iterator_traits<__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::iterator_category std::__iterator_category<__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >(__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > const&)
+ .text._ZSt8distanceIN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEENSt15iterator_traitsIT_E15difference_typeESB_SB_
+                0x0000000000003724       0x31 obj/test.o
+                0x0000000000003724                std::iterator_traits<__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::difference_type std::distance<__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >(__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, __gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >)
+ *fill*         0x0000000000003755        0x1 
+ .text._ZNSt6vectorIhSaIhEE19_M_range_initializeIN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEEEvT_SD_St20forward_iterator_tag
+                0x0000000000003756       0xab obj/test.o
+                0x0000000000003756                void std::vector<unsigned char, std::allocator<unsigned char> >::_M_range_initialize<__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >(__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, __gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, std::forward_iterator_tag)
+ *fill*         0x0000000000003801        0x1 
+ .text._ZNSt12_Vector_baseIhSaIhEE19_M_get_Tp_allocatorEv
+                0x0000000000003802        0xe obj/test.o
+                0x0000000000003802                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_M_get_Tp_allocator()
+ .text._ZSt8_DestroyIPhhEvT_S1_RSaIT0_E
+                0x0000000000003810       0x2a obj/test.o
+                0x0000000000003810                void std::_Destroy<unsigned char*, unsigned char>(unsigned char*, unsigned char*, std::allocator<unsigned char>&)
+ .text._ZNSt12_Vector_baseIhSaIhEE17_Vector_impl_dataC2Ev
+                0x000000000000383a       0x2e obj/test.o
+                0x000000000000383a                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl_data::_Vector_impl_data()
+                0x000000000000383a                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl_data::_Vector_impl_data()
+ .text._ZNSt12_Vector_baseIhSaIhEE13_M_deallocateEPhm
+                0x0000000000003868       0x35 obj/test.o
+                0x0000000000003868                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_M_deallocate(unsigned char*, unsigned long)
+ .text._ZSt4moveIRSt6vectorIhSaIhEEEONSt16remove_referenceIT_E4typeEOS5_
+                0x000000000000389d        0xe obj/test.o
+                0x000000000000389d                std::remove_reference<std::vector<unsigned char, std::allocator<unsigned char> >&>::type&& std::move<std::vector<unsigned char, std::allocator<unsigned char> >&>(std::vector<unsigned char, std::allocator<unsigned char> >&)
+ *fill*         0x00000000000038ab        0x1 
+ .text._ZNSt6vectorIhSaIhEE14_M_move_assignEOS1_St17integral_constantIbLb1EE
+                0x00000000000038ac       0xc4 obj/test.o
+                0x00000000000038ac                std::vector<unsigned char, std::allocator<unsigned char> >::_M_move_assign(std::vector<unsigned char, std::allocator<unsigned char> >&&, std::integral_constant<bool, true>)
+ .text._ZN9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEC2ERKS1_
+                0x0000000000003970       0x1d obj/test.o
+                0x0000000000003970                __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >::__normal_iterator(unsigned char* const&)
+                0x0000000000003970                __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >::__normal_iterator(unsigned char* const&)
+ *fill*         0x000000000000398d        0x1 
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEE4baseEv
+                0x000000000000398e        0xe obj/test.o
+                0x000000000000398e                __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >::base() const
+ .text._ZNSt6vectorIhSaIhEE14_M_insert_rvalEN9__gnu_cxx17__normal_iteratorIPKhS1_EEOh
+                0x000000000000399c      0x19d obj/test.o
+                0x000000000000399c                std::vector<unsigned char, std::allocator<unsigned char> >::_M_insert_rval(__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, unsigned char&&)
+ .text._ZSt4moveIRhEONSt16remove_referenceIT_E4typeEOS2_
+                0x0000000000003b39        0xe obj/test.o
+                0x0000000000003b39                std::remove_reference<unsigned char&>::type&& std::move<unsigned char&>(unsigned char&)
+ .text._ZNSt16allocator_traitsISaIhEE9constructIhJRKhEEEvRS0_PT_DpOT0_
+                0x0000000000003b47       0x39 obj/test.o
+                0x0000000000003b47                void std::allocator_traits<std::allocator<unsigned char> >::construct<unsigned char, unsigned char const&>(std::allocator<unsigned char>&, unsigned char*, unsigned char const&)
+ .text._ZNSt6vectorIhSaIhEE3endEv
+                0x0000000000003b80       0x4c obj/test.o
+                0x0000000000003b80                std::vector<unsigned char, std::allocator<unsigned char> >::end()
+ .text._ZNSt6vectorIhSaIhEE17_M_realloc_insertIJRKhEEEvN9__gnu_cxx17__normal_iteratorIPhS1_EEDpOT_
+                0x0000000000003bcc      0x1a1 obj/test.o
+                0x0000000000003bcc                void std::vector<unsigned char, std::allocator<unsigned char> >::_M_realloc_insert<unsigned char const&>(__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, unsigned char const&)
+ *fill*         0x0000000000003d6d        0x1 
+ .text._ZNSt6vectorIhSaIhEE12emplace_backIJhEEERhDpOT_
+                0x0000000000003d6e       0xa4 obj/test.o
+                0x0000000000003d6e                unsigned char& std::vector<unsigned char, std::allocator<unsigned char> >::emplace_back<unsigned char>(unsigned char&&)
+ .text._ZN9__gnu_cxx14__alloc_traitsISaIhEhE17_S_select_on_copyERKS1_
+                0x0000000000003e12       0x4c obj/test.o
+                0x0000000000003e12                __gnu_cxx::__alloc_traits<std::allocator<unsigned char>, unsigned char>::_S_select_on_copy(std::allocator<unsigned char> const&)
+ .text._ZNKSt12_Vector_baseIhSaIhEE19_M_get_Tp_allocatorEv
+                0x0000000000003e5e        0xe obj/test.o
+                0x0000000000003e5e                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_M_get_Tp_allocator() const
+ .text._ZNSt12_Vector_baseIhSaIhEEC2EmRKS0_
+                0x0000000000003e6c       0x5d obj/test.o
+                0x0000000000003e6c                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_base(unsigned long, std::allocator<unsigned char> const&)
+                0x0000000000003e6c                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_base(unsigned long, std::allocator<unsigned char> const&)
+ *fill*         0x0000000000003ec9        0x1 
+ .text._ZNKSt6vectorIhSaIhEE5beginEv
+                0x0000000000003eca       0x48 obj/test.o
+                0x0000000000003eca                std::vector<unsigned char, std::allocator<unsigned char> >::begin() const
+ .text._ZNKSt6vectorIhSaIhEE3endEv
+                0x0000000000003f12       0x4c obj/test.o
+                0x0000000000003f12                std::vector<unsigned char, std::allocator<unsigned char> >::end() const
+ .text._ZSt22__uninitialized_copy_aIN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEEPhhET0_T_SA_S9_RSaIT1_E
+                0x0000000000003f5e       0x31 obj/test.o
+                0x0000000000003f5e                unsigned char* std::__uninitialized_copy_a<__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, unsigned char*, unsigned char>(__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, unsigned char*, std::allocator<unsigned char>&)
+ .text._ZSt5equalIN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEES7_EbT_S8_T0_
+                0x0000000000003f8f       0x2d obj/test.o
+                0x0000000000003f8f                bool std::equal<__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > > >(__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >)
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE16_M_construct_auxIPKcEEvT_S8_St12__false_type
+                0x0000000000003fbc       0x51 obj/test.o
+                0x0000000000003fbc                void std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct_aux<char const*>(char const*, char const*, std::__false_type)
+ *fill*         0x000000000000400d        0x1 
+ .text._ZNSt12_Vector_baseIhSaIhEE12_Vector_implC2ERKS0_
+                0x000000000000400e       0x32 obj/test.o
+                0x000000000000400e                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl::_Vector_impl(std::allocator<unsigned char> const&)
+                0x000000000000400e                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl::_Vector_impl(std::allocator<unsigned char> const&)
+ .text._ZSt10__distanceIN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEENSt15iterator_traitsIT_E15difference_typeESB_SB_St26random_access_iterator_tag
+                0x0000000000004040       0x25 obj/test.o
+                0x0000000000004040                std::iterator_traits<__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::difference_type std::__distance<__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >(__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, __gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, std::random_access_iterator_tag)
+ .text._ZNSt6vectorIhSaIhEE17_S_check_init_lenEmRKS0_
+                0x0000000000004065       0x83 obj/test.o
+                0x0000000000004065                std::vector<unsigned char, std::allocator<unsigned char> >::_S_check_init_len(unsigned long, std::allocator<unsigned char> const&)
+ .text._ZNSt12_Vector_baseIhSaIhEE11_M_allocateEm
+                0x00000000000040e8       0x33 obj/test.o
+                0x00000000000040e8                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_M_allocate(unsigned long)
+ .text._ZSt22__uninitialized_copy_aIN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEPhhET0_T_SC_SB_RSaIT1_E
+                0x000000000000411b       0x31 obj/test.o
+                0x000000000000411b                unsigned char* std::__uninitialized_copy_a<__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, unsigned char*, unsigned char>(__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, __gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, unsigned char*, std::allocator<unsigned char>&)
+ .text._ZSt8_DestroyIPhEvT_S1_
+                0x000000000000414c       0x26 obj/test.o
+                0x000000000000414c                void std::_Destroy<unsigned char*>(unsigned char*, unsigned char*)
+ .text._ZNSt16allocator_traitsISaIhEE10deallocateERS0_Phm
+                0x0000000000004172       0x2e obj/test.o
+                0x0000000000004172                std::allocator_traits<std::allocator<unsigned char> >::deallocate(std::allocator<unsigned char>&, unsigned char*, unsigned long)
+ .text._ZNKSt12_Vector_baseIhSaIhEE13get_allocatorEv
+                0x00000000000041a0       0x34 obj/test.o
+                0x00000000000041a0                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::get_allocator() const
+ .text._ZNSt6vectorIhSaIhEEC2ERKS0_
+                0x00000000000041d4       0x26 obj/test.o
+                0x00000000000041d4                std::vector<unsigned char, std::allocator<unsigned char> >::vector(std::allocator<unsigned char> const&)
+                0x00000000000041d4                std::vector<unsigned char, std::allocator<unsigned char> >::vector(std::allocator<unsigned char> const&)
+ .text._ZNSt12_Vector_baseIhSaIhEE17_Vector_impl_data12_M_swap_dataERS2_
+                0x00000000000041fa       0x7b obj/test.o
+                0x00000000000041fa                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl_data::_M_swap_data(std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl_data&)
+ .text._ZSt15__alloc_on_moveISaIhEEvRT_S2_
+                0x0000000000004275       0x1f obj/test.o
+                0x0000000000004275                void std::__alloc_on_move<std::allocator<unsigned char> >(std::allocator<unsigned char>&, std::allocator<unsigned char>&)
+ .text._ZNKSt6vectorIhSaIhEE6cbeginEv
+                0x0000000000004294       0x48 obj/test.o
+                0x0000000000004294                std::vector<unsigned char, std::allocator<unsigned char> >::cbegin() const
+ .text._ZN9__gnu_cxxmiIPKhSt6vectorIhSaIhEEEENS_17__normal_iteratorIT_T0_E15difference_typeERKS9_SC_
+                0x00000000000042dc       0x3b obj/test.o
+                0x00000000000042dc                __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >::difference_type __gnu_cxx::operator-<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >(__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > > const&, __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > > const&)
+ *fill*         0x0000000000004317        0x1 
+ .text._ZNKSt6vectorIhSaIhEE4cendEv
+                0x0000000000004318       0x4c obj/test.o
+                0x0000000000004318                std::vector<unsigned char, std::allocator<unsigned char> >::cend() const
+ .text._ZN9__gnu_cxxeqIPKhSt6vectorIhSaIhEEEEbRKNS_17__normal_iteratorIT_T0_EESB_
+                0x0000000000004364       0x3b obj/test.o
+                0x0000000000004364                bool __gnu_cxx::operator==<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >(__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > > const&, __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > > const&)
+ .text._ZNSt16allocator_traitsISaIhEE9constructIhJhEEEvRS0_PT_DpOT0_
+                0x000000000000439f       0x39 obj/test.o
+                0x000000000000439f                void std::allocator_traits<std::allocator<unsigned char> >::construct<unsigned char, unsigned char>(std::allocator<unsigned char>&, unsigned char*, unsigned char&&)
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEplEl
+                0x00000000000043d8       0x5e obj/test.o
+                0x00000000000043d8                __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >::operator+(long) const
+ .text._ZNSt6vectorIhSaIhEE13_M_insert_auxIhEEvN9__gnu_cxx17__normal_iteratorIPhS1_EEOT_
+                0x0000000000004436       0xb5 obj/test.o
+                0x0000000000004436                void std::vector<unsigned char, std::allocator<unsigned char> >::_M_insert_aux<unsigned char>(__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, unsigned char&&)
+ *fill*         0x00000000000044eb        0x1 
+ .text._ZNSt6vectorIhSaIhEE17_M_realloc_insertIJhEEEvN9__gnu_cxx17__normal_iteratorIPhS1_EEDpOT_
+                0x00000000000044ec      0x1a1 obj/test.o
+                0x00000000000044ec                void std::vector<unsigned char, std::allocator<unsigned char> >::_M_realloc_insert<unsigned char>(__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, unsigned char&&)
+ .text._ZSt7forwardIRKhEOT_RNSt16remove_referenceIS2_E4typeE
+                0x000000000000468d        0xe obj/test.o
+                0x000000000000468d                unsigned char const& std::forward<unsigned char const&>(std::remove_reference<unsigned char const&>::type&)
+ *fill*         0x000000000000469b        0x1 
+ .text._ZN9__gnu_cxx13new_allocatorIhE9constructIhJRKhEEEvPT_DpOT0_
+                0x000000000000469c       0x3e obj/test.o
+                0x000000000000469c                void __gnu_cxx::new_allocator<unsigned char>::construct<unsigned char, unsigned char const&>(unsigned char*, unsigned char const&)
+ .text._ZNKSt6vectorIhSaIhEE12_M_check_lenEmPKc
+                0x00000000000046da       0xeb obj/test.o
+                0x00000000000046da                std::vector<unsigned char, std::allocator<unsigned char> >::_M_check_len(unsigned long, char const*) const
+ .text._ZN9__gnu_cxxmiIPhSt6vectorIhSaIhEEEENS_17__normal_iteratorIT_T0_E15difference_typeERKS8_SB_
+                0x00000000000047c5       0x3b obj/test.o
+                0x00000000000047c5                __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >::difference_type __gnu_cxx::operator-<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >(__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > const&, __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > const&)
+ .text._ZNSt6vectorIhSaIhEE11_S_relocateEPhS2_S2_RS0_
+                0x0000000000004800       0x32 obj/test.o
+                0x0000000000004800                std::vector<unsigned char, std::allocator<unsigned char> >::_S_relocate(unsigned char*, unsigned char*, unsigned char*, std::allocator<unsigned char>&)
+ .text._ZSt7forwardIhEOT_RNSt16remove_referenceIS0_E4typeE
+                0x0000000000004832        0xe obj/test.o
+                0x0000000000004832                unsigned char&& std::forward<unsigned char>(std::remove_reference<unsigned char>::type&)
+ .text._ZNSt6vectorIhSaIhEE4backEv
+                0x0000000000004840       0x62 obj/test.o
+                0x0000000000004840                std::vector<unsigned char, std::allocator<unsigned char> >::back()
+ .text._ZNSt16allocator_traitsISaIhEE37select_on_container_copy_constructionERKS0_
+                0x00000000000048a2       0x29 obj/test.o
+                0x00000000000048a2                std::allocator_traits<std::allocator<unsigned char> >::select_on_container_copy_construction(std::allocator<unsigned char> const&)
+ *fill*         0x00000000000048cb        0x1 
+ .text._ZNSt12_Vector_baseIhSaIhEE17_M_create_storageEm
+                0x00000000000048cc       0x52 obj/test.o
+                0x00000000000048cc                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_M_create_storage(unsigned long)
+ .text._ZN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEC2ERKS2_
+                0x000000000000491e       0x1d obj/test.o
+                0x000000000000491e                __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >::__normal_iterator(unsigned char const* const&)
+                0x000000000000491e                __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >::__normal_iterator(unsigned char const* const&)
+ .text._ZSt18uninitialized_copyIN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEEPhET0_T_SA_S9_
+                0x000000000000493b       0x31 obj/test.o
+                0x000000000000493b                unsigned char* std::uninitialized_copy<__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, unsigned char*>(__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, unsigned char*)
+ .text._ZSt11__equal_auxIN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEES7_EbT_S8_T0_
+                0x000000000000496c       0x58 obj/test.o
+                0x000000000000496c                bool std::__equal_aux<__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > > >(__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >)
+ .text._ZSt8distanceIPKcENSt15iterator_traitsIT_E15difference_typeES3_S3_
+                0x00000000000049c4       0x31 obj/test.o
+                0x00000000000049c4                std::iterator_traits<char const*>::difference_type std::distance<char const*>(char const*, char const*)
+ *fill*         0x00000000000049f5        0x1 
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tag
+                0x00000000000049f6      0x139 obj/test.o
+                0x00000000000049f6                void std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct<char const*>(char const*, char const*, std::forward_iterator_tag)
+ *fill*         0x0000000000004b2f        0x1 
+ .text._ZNSaIhEC2ERKS_
+                0x0000000000004b30       0x26 obj/test.o
+                0x0000000000004b30                std::allocator<unsigned char>::allocator(std::allocator<unsigned char> const&)
+                0x0000000000004b30                std::allocator<unsigned char>::allocator(std::allocator<unsigned char> const&)
+ .text._ZN9__gnu_cxxmiIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEENS_17__normal_iteratorIT_T0_E15difference_typeERKSB_SE_
+                0x0000000000004b56       0x3b obj/test.o
+                0x0000000000004b56                __gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >::difference_type __gnu_cxx::operator-<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >(__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > const&, __gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > const&)
+ .text._ZNSt6vectorIhSaIhEE11_S_max_sizeERKS0_
+                0x0000000000004b91       0x65 obj/test.o
+                0x0000000000004b91                std::vector<unsigned char, std::allocator<unsigned char> >::_S_max_size(std::allocator<unsigned char> const&)
+ .text._ZNSt16allocator_traitsISaIhEE8allocateERS0_m
+                0x0000000000004bf6       0x2a obj/test.o
+                0x0000000000004bf6                std::allocator_traits<std::allocator<unsigned char> >::allocate(std::allocator<unsigned char>&, unsigned long)
+ .text._ZSt18uninitialized_copyIN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEPhET0_T_SC_SB_
+                0x0000000000004c20       0x31 obj/test.o
+                0x0000000000004c20                unsigned char* std::uninitialized_copy<__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, unsigned char*>(__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, __gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, unsigned char*)
+ .text._ZNSt12_Destroy_auxILb1EE9__destroyIPhEEvT_S3_
+                0x0000000000004c51        0xf obj/test.o
+                0x0000000000004c51                void std::_Destroy_aux<true>::__destroy<unsigned char*>(unsigned char*, unsigned char*)
+ .text._ZN9__gnu_cxx13new_allocatorIhE10deallocateEPhm
+                0x0000000000004c60       0x29 obj/test.o
+                0x0000000000004c60                __gnu_cxx::new_allocator<unsigned char>::deallocate(unsigned char*, unsigned long)
+ *fill*         0x0000000000004c89        0x1 
+ .text._ZNSt12_Vector_baseIhSaIhEE17_Vector_impl_data12_M_copy_dataERKS2_
+                0x0000000000004c8a       0x3d obj/test.o
+                0x0000000000004c8a                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl_data::_M_copy_data(std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl_data const&)
+ .text._ZSt4moveIRSaIhEEONSt16remove_referenceIT_E4typeEOS3_
+                0x0000000000004cc7        0xe obj/test.o
+                0x0000000000004cc7                std::remove_reference<std::allocator<unsigned char>&>::type&& std::move<std::allocator<unsigned char>&>(std::allocator<unsigned char>&)
+ *fill*         0x0000000000004cd5        0x1 
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEE4baseEv
+                0x0000000000004cd6        0xe obj/test.o
+                0x0000000000004cd6                __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >::base() const
+ .text._ZN9__gnu_cxx13new_allocatorIhE9constructIhJhEEEvPT_DpOT0_
+                0x0000000000004ce4       0x3e obj/test.o
+                0x0000000000004ce4                void __gnu_cxx::new_allocator<unsigned char>::construct<unsigned char, unsigned char>(unsigned char*, unsigned char&&)
+ .text._ZSt13move_backwardIPhS0_ET0_T_S2_S1_
+                0x0000000000004d22       0x4b obj/test.o
+                0x0000000000004d22                unsigned char* std::move_backward<unsigned char*, unsigned char*>(unsigned char*, unsigned char*, unsigned char*)
+ *fill*         0x0000000000004d6d        0x1 
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEdeEv
+                0x0000000000004d6e       0x11 obj/test.o
+                0x0000000000004d6e                __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >::operator*() const
+ *fill*         0x0000000000004d7f        0x1 
+ .text._ZNKSt6vectorIhSaIhEE8max_sizeEv
+                0x0000000000004d80       0x22 obj/test.o
+                0x0000000000004d80                std::vector<unsigned char, std::allocator<unsigned char> >::max_size() const
+ .text._ZSt3maxImERKT_S2_S2_
+                0x0000000000004da2       0x2b obj/test.o
+                0x0000000000004da2                unsigned long const& std::max<unsigned long>(unsigned long const&, unsigned long const&)
+ .text._ZNSt6vectorIhSaIhEE14_S_do_relocateEPhS2_S2_RS0_St17integral_constantIbLb1EE
+                0x0000000000004dcd       0x32 obj/test.o
+                0x0000000000004dcd                std::vector<unsigned char, std::allocator<unsigned char> >::_S_do_relocate(unsigned char*, unsigned char*, unsigned char*, std::allocator<unsigned char>&, std::integral_constant<bool, true>)
+ *fill*         0x0000000000004dff        0x1 
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEmiEl
+                0x0000000000004e00       0x61 obj/test.o
+                0x0000000000004e00                __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >::operator-(long) const
+ .text._ZNSt20__uninitialized_copyILb1EE13__uninit_copyIN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEEPhEET0_T_SC_SB_
+                0x0000000000004e61       0x2d obj/test.o
+                0x0000000000004e61                unsigned char* std::__uninitialized_copy<true>::__uninit_copy<__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, unsigned char*>(__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, unsigned char*)
+ .text._ZSt12__niter_baseIPKhSt6vectorIhSaIhEEET_N9__gnu_cxx17__normal_iteratorIS5_T0_EE
+                0x0000000000004e8e       0x1d obj/test.o
+                0x0000000000004e8e                unsigned char const* std::__niter_base<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >(__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >)
+ .text._ZSt12__equal_aux1IPKhS1_EbT_S2_T0_
+                0x0000000000004eab       0x31 obj/test.o
+                0x0000000000004eab                bool std::__equal_aux1<unsigned char const*, unsigned char const*>(unsigned char const*, unsigned char const*, unsigned char const*)
+ .text._ZN9__gnu_cxx17__is_null_pointerIKcEEbPT_
+                0x0000000000004edc       0x12 obj/test.o
+                0x0000000000004edc                bool __gnu_cxx::__is_null_pointer<char const>(char const*)
+ .text._ZSt19__iterator_categoryIPKcENSt15iterator_traitsIT_E17iterator_categoryERKS3_
+                0x0000000000004eee        0xa obj/test.o
+                0x0000000000004eee                std::iterator_traits<char const*>::iterator_category std::__iterator_category<char const*>(char const* const&)
+ .text._ZSt10__distanceIPKcENSt15iterator_traitsIT_E15difference_typeES3_S3_St26random_access_iterator_tag
+                0x0000000000004ef8       0x16 obj/test.o
+                0x0000000000004ef8                std::iterator_traits<char const*>::difference_type std::__distance<char const*>(char const*, char const*, std::random_access_iterator_tag)
+ .text._ZN9__gnu_cxx13new_allocatorIhEC2ERKS1_
+                0x0000000000004f0e        0xf obj/test.o
+                0x0000000000004f0e                __gnu_cxx::new_allocator<unsigned char>::new_allocator(__gnu_cxx::new_allocator<unsigned char> const&)
+                0x0000000000004f0e                __gnu_cxx::new_allocator<unsigned char>::new_allocator(__gnu_cxx::new_allocator<unsigned char> const&)
+ *fill*         0x0000000000004f1d        0x1 
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE4baseEv
+                0x0000000000004f1e        0xe obj/test.o
+                0x0000000000004f1e                __gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >::base() const
+ .text._ZNSt16allocator_traitsISaIhEE8max_sizeERKS0_
+                0x0000000000004f2c       0x1a obj/test.o
+                0x0000000000004f2c                std::allocator_traits<std::allocator<unsigned char> >::max_size(std::allocator<unsigned char> const&)
+ .text._ZSt3minImERKT_S2_S2_
+                0x0000000000004f46       0x2b obj/test.o
+                0x0000000000004f46                unsigned long const& std::min<unsigned long>(unsigned long const&, unsigned long const&)
+ *fill*         0x0000000000004f71        0x1 
+ .text._ZNK9__gnu_cxx13new_allocatorIhE11_M_max_sizeEv
+                0x0000000000004f72       0x14 obj/test.o
+                0x0000000000004f72                __gnu_cxx::new_allocator<unsigned char>::_M_max_size() const
+ .text._ZN9__gnu_cxx13new_allocatorIhE8allocateEmPKv
+                0x0000000000004f86       0x48 obj/test.o
+                0x0000000000004f86                __gnu_cxx::new_allocator<unsigned char>::allocate(unsigned long, void const*)
+ .text._ZNSt20__uninitialized_copyILb1EE13__uninit_copyIN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEPhEET0_T_SE_SD_
+                0x0000000000004fce       0x2d obj/test.o
+                0x0000000000004fce                unsigned char* std::__uninitialized_copy<true>::__uninit_copy<__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, unsigned char*>(__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, __gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, unsigned char*)
+ .text._ZSt12__miter_baseIPhET_S1_
+                0x0000000000004ffb        0xe obj/test.o
+                0x0000000000004ffb                unsigned char* std::__miter_base<unsigned char*>(unsigned char*)
+ .text._ZSt22__copy_move_backward_aILb1EPhS0_ET1_T0_S2_S1_
+                0x0000000000005009       0x6a obj/test.o
+                0x0000000000005009                unsigned char* std::__copy_move_backward_a<true, unsigned char*, unsigned char*>(unsigned char*, unsigned char*, unsigned char*)
+ .text._ZSt12__relocate_aIPhS0_SaIhEET0_T_S3_S2_RT1_
+                0x0000000000005073       0x63 obj/test.o
+                0x0000000000005073                unsigned char* std::__relocate_a<unsigned char*, unsigned char*, std::allocator<unsigned char> >(unsigned char*, unsigned char*, unsigned char*, std::allocator<unsigned char>&)
+ .text._ZSt4copyIN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEEPhET0_T_SA_S9_
+                0x00000000000050d6       0x4b obj/test.o
+                0x00000000000050d6                unsigned char* std::copy<__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, unsigned char*>(__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, unsigned char*)
+ .text._ZNSt7__equalILb1EE5equalIhEEbPKT_S4_S4_
+                0x0000000000005121       0x4c obj/test.o
+                0x0000000000005121                bool std::__equal<true>::equal<unsigned char>(unsigned char const*, unsigned char const*, unsigned char const*)
+ *fill*         0x000000000000516d        0x1 
+ .text._ZNK9__gnu_cxx13new_allocatorIhE8max_sizeEv
+                0x000000000000516e       0x1a obj/test.o
+                0x000000000000516e                __gnu_cxx::new_allocator<unsigned char>::max_size() const
+ .text._ZSt4copyIN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEPhET0_T_SC_SB_
+                0x0000000000005188       0x4b obj/test.o
+                0x0000000000005188                unsigned char* std::copy<__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, unsigned char*>(__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, __gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, unsigned char*)
+ .text._ZSt12__niter_baseIPhET_S1_
+                0x00000000000051d3        0xe obj/test.o
+                0x00000000000051d3                unsigned char* std::__niter_base<unsigned char*>(unsigned char*)
+ .text._ZSt23__copy_move_backward_a1ILb1EPhS0_ET1_T0_S2_S1_
+                0x00000000000051e1       0x2d obj/test.o
+                0x00000000000051e1                unsigned char* std::__copy_move_backward_a1<true, unsigned char*, unsigned char*>(unsigned char*, unsigned char*, unsigned char*)
+ .text._ZSt12__niter_wrapIPhET_RKS1_S1_
+                0x000000000000520e       0x12 obj/test.o
+                0x000000000000520e                unsigned char* std::__niter_wrap<unsigned char*>(unsigned char* const&, unsigned char*)
+ .text._ZSt14__relocate_a_1IhhENSt9enable_ifIXsrSt24__is_bitwise_relocatableIT_vE5valueEPS2_E4typeES4_S4_S4_RSaIT0_E
+                0x0000000000005220       0x4f obj/test.o
+                0x0000000000005220                std::enable_if<std::__is_bitwise_relocatable<unsigned char, void>::value, unsigned char*>::type std::__relocate_a_1<unsigned char, unsigned char>(unsigned char*, unsigned char*, unsigned char*, std::allocator<unsigned char>&)
+ .text._ZSt12__miter_baseIN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEEET_S8_
+                0x000000000000526f        0xe obj/test.o
+                0x000000000000526f                __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > > std::__miter_base<__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > > >(__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >)
+ .text._ZSt13__copy_move_aILb0EN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEEPhET1_T0_SA_S9_
+                0x000000000000527d       0x6a obj/test.o
+                0x000000000000527d                unsigned char* std::__copy_move_a<false, __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, unsigned char*>(__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, unsigned char*)
+ .text._ZSt8__memcmpIhhEiPKT_PKT0_m
+                0x00000000000052e7       0x2d obj/test.o
+                0x00000000000052e7                int std::__memcmp<unsigned char, unsigned char>(unsigned char const*, unsigned char const*, unsigned long)
+ .text._ZSt12__miter_baseIN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEET_SA_
+                0x0000000000005314        0xe obj/test.o
+                0x0000000000005314                __gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > std::__miter_base<__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >(__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >)
+ .text._ZSt13__copy_move_aILb0EN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEPhET1_T0_SC_SB_
+                0x0000000000005322       0x6a obj/test.o
+                0x0000000000005322                unsigned char* std::__copy_move_a<false, __gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, unsigned char*>(__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, __gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, unsigned char*)
+ .text._ZSt23__copy_move_backward_a2ILb1EPhS0_ET1_T0_S2_S1_
+                0x000000000000538c       0x2d obj/test.o
+                0x000000000000538c                unsigned char* std::__copy_move_backward_a2<true, unsigned char*, unsigned char*>(unsigned char*, unsigned char*, unsigned char*)
+ .text._ZSt14__copy_move_a1ILb0EPKhPhET1_T0_S4_S3_
+                0x00000000000053b9       0x2d obj/test.o
+                0x00000000000053b9                unsigned char* std::__copy_move_a1<false, unsigned char const*, unsigned char*>(unsigned char const*, unsigned char const*, unsigned char*)
+ .text._ZSt12__niter_baseIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEET_N9__gnu_cxx17__normal_iteratorIS7_T0_EE
+                0x00000000000053e6       0x1d obj/test.o
+                0x00000000000053e6                char* std::__niter_base<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >(__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >)
+ .text._ZSt14__copy_move_a1ILb0EPcPhET1_T0_S3_S2_
+                0x0000000000005403       0x2d obj/test.o
+                0x0000000000005403                unsigned char* std::__copy_move_a1<false, char*, unsigned char*>(char*, char*, unsigned char*)
+ .text._ZNSt20__copy_move_backwardILb1ELb1ESt26random_access_iterator_tagE13__copy_move_bIhEEPT_PKS3_S6_S4_
+                0x0000000000005430       0x5e obj/test.o
+                0x0000000000005430                unsigned char* std::__copy_move_backward<true, true, std::random_access_iterator_tag>::__copy_move_b<unsigned char>(unsigned char const*, unsigned char const*, unsigned char*)
+ .text._ZSt14__copy_move_a2ILb0EPKhPhET1_T0_S4_S3_
+                0x000000000000548e       0x2d obj/test.o
+                0x000000000000548e                unsigned char* std::__copy_move_a2<false, unsigned char const*, unsigned char*>(unsigned char const*, unsigned char const*, unsigned char*)
+ .text._ZSt14__copy_move_a2ILb0EPcPhET1_T0_S3_S2_
+                0x00000000000054bb       0x2d obj/test.o
+                0x00000000000054bb                unsigned char* std::__copy_move_a2<false, char*, unsigned char*>(char*, char*, unsigned char*)
+ .text._ZNSt11__copy_moveILb0ELb1ESt26random_access_iterator_tagE8__copy_mIhEEPT_PKS3_S6_S4_
+                0x00000000000054e8       0x4b obj/test.o
+                0x00000000000054e8                unsigned char* std::__copy_move<false, true, std::random_access_iterator_tag>::__copy_m<unsigned char>(unsigned char const*, unsigned char const*, unsigned char*)
+ .text._ZNSt11__copy_moveILb0ELb0ESt26random_access_iterator_tagE8__copy_mIPcPhEET0_T_S6_S5_
+                0x0000000000005533       0x49 obj/test.o
+                0x0000000000005533                unsigned char* std::__copy_move<false, false, std::random_access_iterator_tag>::__copy_m<char*, unsigned char*>(char*, char*, unsigned char*)
+ .text          0x000000000000557c      0x8a3 obj/encryptedMessage.o
+                0x000000000000557c                encryptedMessage::setEncodedMessage(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >)
+                0x0000000000005658                encryptedMessage::decodeMessage(std::vector<unsigned char, std::allocator<unsigned char> >)
+                0x0000000000005926                encryptedMessage::getDecodedMessage[abi:cxx11]()
+                0x00000000000059f4                main
+ .text._ZNSt11char_traitsIcE6assignERcRKc
+                0x0000000000005e1f       0x1c obj/encryptedMessage.o
+                0x0000000000005e1f                std::char_traits<char>::assign(char&, char const&)
+ .text._ZN9__gnu_cxx14__alloc_traitsISaIhEhE15_S_always_equalEv
+                0x0000000000005e3b        0xb obj/encryptedMessage.o
+                0x0000000000005e3b                __gnu_cxx::__alloc_traits<std::allocator<unsigned char>, unsigned char>::_S_always_equal()
+ .text._ZN16encryptedMessageC2Ev
+                0x0000000000005e46       0x2b obj/encryptedMessage.o
+                0x0000000000005e46                encryptedMessage::encryptedMessage()
+                0x0000000000005e46                encryptedMessage::encryptedMessage()
+ *fill*         0x0000000000005e71        0x1 
+ .text._ZN16encryptedMessageD2Ev
+                0x0000000000005e72       0x2b obj/encryptedMessage.o
+                0x0000000000005e72                encryptedMessage::~encryptedMessage()
+                0x0000000000005e72                encryptedMessage::~encryptedMessage()
+ .text._ZN9__gnu_cxx14__alloc_traitsISaIhEhE27_S_propagate_on_copy_assignEv
+                0x0000000000005e9d        0xb obj/encryptedMessage.o
+                0x0000000000005e9d                __gnu_cxx::__alloc_traits<std::allocator<unsigned char>, unsigned char>::_S_propagate_on_copy_assign()
+ .text._ZNSt6vectorIhSaIhEEaSERKS1_
+                0x0000000000005ea8      0x2fb obj/encryptedMessage.o
+                0x0000000000005ea8                std::vector<unsigned char, std::allocator<unsigned char> >::operator=(std::vector<unsigned char, std::allocator<unsigned char> > const&)
+ *fill*         0x00000000000061a3        0x1 
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2IN9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEEvEET_SD_RKS3_
+                0x00000000000061a4       0x77 obj/encryptedMessage.o
+                0x00000000000061a4                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string<__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, void>(__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, std::allocator<char> const&)
+                0x00000000000061a4                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string<__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, void>(__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, std::allocator<char> const&)
+ .text._ZStneRKSaIhES1_
+                0x000000000000621b       0x13 obj/encryptedMessage.o
+                0x000000000000621b                std::operator!=(std::allocator<unsigned char> const&, std::allocator<unsigned char> const&)
+ .text._ZNSt6vectorIhSaIhEE5clearEv
+                0x000000000000622e       0x25 obj/encryptedMessage.o
+                0x000000000000622e                std::vector<unsigned char, std::allocator<unsigned char> >::clear()
+ .text._ZSt15__alloc_on_copyISaIhEEvRT_RKS1_
+                0x0000000000006253        0xf obj/encryptedMessage.o
+                0x0000000000006253                void std::__alloc_on_copy<std::allocator<unsigned char> >(std::allocator<unsigned char>&, std::allocator<unsigned char> const&)
+ .text._ZNKSt6vectorIhSaIhEE8capacityEv
+                0x0000000000006262       0x1f obj/encryptedMessage.o
+                0x0000000000006262                std::vector<unsigned char, std::allocator<unsigned char> >::capacity() const
+ *fill*         0x0000000000006281        0x1 
+ .text._ZNSt6vectorIhSaIhEE20_M_allocate_and_copyIN9__gnu_cxx17__normal_iteratorIPKhS1_EEEEPhmT_S9_
+                0x0000000000006282       0x96 obj/encryptedMessage.o
+                0x0000000000006282                unsigned char* std::vector<unsigned char, std::allocator<unsigned char> >::_M_allocate_and_copy<__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > > >(unsigned long, __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >)
+ .text._ZSt4copyIN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEENS1_IPhS6_EEET0_T_SB_SA_
+                0x0000000000006318       0x4b obj/encryptedMessage.o
+                0x0000000000006318                __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > std::copy<__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > >(__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >)
+ .text._ZSt8_DestroyIN9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEEhEvT_S7_RSaIT0_E
+                0x0000000000006363       0x2a obj/encryptedMessage.o
+                0x0000000000006363                void std::_Destroy<__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, unsigned char>(__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, std::allocator<unsigned char>&)
+ .text._ZSt4copyIPhS0_ET0_T_S2_S1_
+                0x000000000000638d       0x4b obj/encryptedMessage.o
+                0x000000000000638d                unsigned char* std::copy<unsigned char*, unsigned char*>(unsigned char*, unsigned char*, unsigned char*)
+ .text._ZSt22__uninitialized_copy_aIPhS0_hET0_T_S2_S1_RSaIT1_E
+                0x00000000000063d8       0x31 obj/encryptedMessage.o
+                0x00000000000063d8                unsigned char* std::__uninitialized_copy_a<unsigned char*, unsigned char*, unsigned char>(unsigned char*, unsigned char*, unsigned char*, std::allocator<unsigned char>&)
+ *fill*         0x0000000000006409        0x1 
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIN9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEEEEvT_SD_
+                0x000000000000640a       0x2e obj/encryptedMessage.o
+                0x000000000000640a                void std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct<__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > >(__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >)
+ .text._ZNSt6vectorIhSaIhEE15_M_erase_at_endEPh
+                0x0000000000006438       0x5c obj/encryptedMessage.o
+                0x0000000000006438                std::vector<unsigned char, std::allocator<unsigned char> >::_M_erase_at_end(unsigned char*)
+ .text._ZSt13__copy_move_aILb0EN9__gnu_cxx17__normal_iteratorIPKhSt6vectorIhSaIhEEEENS1_IPhS6_EEET1_T0_SB_SA_
+                0x0000000000006494       0x6a obj/encryptedMessage.o
+                0x0000000000006494                __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > std::__copy_move_a<false, __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > >(__gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char const*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >)
+ .text._ZSt8_DestroyIN9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEEEvT_S7_
+                0x00000000000064fe       0x26 obj/encryptedMessage.o
+                0x00000000000064fe                void std::_Destroy<__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > >(__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >)
+ .text._ZSt13__copy_move_aILb0EPhS0_ET1_T0_S2_S1_
+                0x0000000000006524       0x6a obj/encryptedMessage.o
+                0x0000000000006524                unsigned char* std::__copy_move_a<false, unsigned char*, unsigned char*>(unsigned char*, unsigned char*, unsigned char*)
+ .text._ZSt18uninitialized_copyIPhS0_ET0_T_S2_S1_
+                0x000000000000658e       0x31 obj/encryptedMessage.o
+                0x000000000000658e                unsigned char* std::uninitialized_copy<unsigned char*, unsigned char*>(unsigned char*, unsigned char*, unsigned char*)
+ *fill*         0x00000000000065bf        0x1 
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE16_M_construct_auxIN9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEEEEvT_SD_St12__false_type
+                0x00000000000065c0       0x51 obj/encryptedMessage.o
+                0x00000000000065c0                void std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct_aux<__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > >(__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, std::__false_type)
+ .text._ZSt12__niter_baseIPhSt6vectorIhSaIhEEET_N9__gnu_cxx17__normal_iteratorIS4_T0_EE
+                0x0000000000006611       0x1d obj/encryptedMessage.o
+                0x0000000000006611                unsigned char* std::__niter_base<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >(__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >)
+ .text._ZSt12__niter_wrapIN9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEES2_ET_S7_T0_
+                0x000000000000662e       0x3a obj/encryptedMessage.o
+                0x000000000000662e                __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > std::__niter_wrap<__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, unsigned char*>(__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, unsigned char*)
+ .text._ZNSt12_Destroy_auxILb1EE9__destroyIN9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEEEEvT_S9_
+                0x0000000000006668        0xf obj/encryptedMessage.o
+                0x0000000000006668                void std::_Destroy_aux<true>::__destroy<__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > >(__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >)
+ .text._ZSt14__copy_move_a1ILb0EPhS0_ET1_T0_S2_S1_
+                0x0000000000006677       0x2d obj/encryptedMessage.o
+                0x0000000000006677                unsigned char* std::__copy_move_a1<false, unsigned char*, unsigned char*>(unsigned char*, unsigned char*, unsigned char*)
+ .text._ZNSt20__uninitialized_copyILb1EE13__uninit_copyIPhS2_EET0_T_S4_S3_
+                0x00000000000066a4       0x2d obj/encryptedMessage.o
+                0x00000000000066a4                unsigned char* std::__uninitialized_copy<true>::__uninit_copy<unsigned char*, unsigned char*>(unsigned char*, unsigned char*, unsigned char*)
+ .text._ZSt8distanceIN9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEEENSt15iterator_traitsIT_E15difference_typeES8_S8_
+                0x00000000000066d1       0x31 obj/encryptedMessage.o
+                0x00000000000066d1                std::iterator_traits<__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > >::difference_type std::distance<__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > >(__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >)
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIN9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEEEEvT_SD_St20forward_iterator_tag
+                0x0000000000006702      0x146 obj/encryptedMessage.o
+                0x0000000000006702                void std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct<__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > >(__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, std::forward_iterator_tag)
+ .text._ZSt14__copy_move_a2ILb0EPhS0_ET1_T0_S2_S1_
+                0x0000000000006848       0x2d obj/encryptedMessage.o
+                0x0000000000006848                unsigned char* std::__copy_move_a2<false, unsigned char*, unsigned char*>(unsigned char*, unsigned char*, unsigned char*)
+ .text._ZN9__gnu_cxx17__is_null_pointerINS_17__normal_iteratorIPhSt6vectorIhSaIhEEEEEEbT_
+                0x0000000000006875        0xf obj/encryptedMessage.o
+                0x0000000000006875                bool __gnu_cxx::__is_null_pointer<__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > >(__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >)
+ .text._ZN9__gnu_cxxneIPhSt6vectorIhSaIhEEEEbRKNS_17__normal_iteratorIT_T0_EESA_
+                0x0000000000006884       0x3b obj/encryptedMessage.o
+                0x0000000000006884                bool __gnu_cxx::operator!=<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >(__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > const&, __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > const&)
+ .text._ZSt19__iterator_categoryIN9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEEENSt15iterator_traitsIT_E17iterator_categoryERKS8_
+                0x00000000000068bf        0xa obj/encryptedMessage.o
+                0x00000000000068bf                std::iterator_traits<__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > >::iterator_category std::__iterator_category<__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > >(__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > const&)
+ .text._ZSt10__distanceIN9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEEENSt15iterator_traitsIT_E15difference_typeES8_S8_St26random_access_iterator_tag
+                0x00000000000068c9       0x25 obj/encryptedMessage.o
+                0x00000000000068c9                std::iterator_traits<__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > >::difference_type std::__distance<__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > >(__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, std::random_access_iterator_tag)
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE13_S_copy_charsIN9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEEEEvPcT_SE_
+                0x00000000000068ee       0x89 obj/encryptedMessage.o
+                0x00000000000068ee                void std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_S_copy_chars<__gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > > >(char*, __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >, __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >)
+ *fill*         0x0000000000006977        0x1 
+ .text._ZN9__gnu_cxx17__normal_iteratorIPhSt6vectorIhSaIhEEEppEv
+                0x0000000000006978       0x20 obj/encryptedMessage.o
+                0x0000000000006978                __gnu_cxx::__normal_iterator<unsigned char*, std::vector<unsigned char, std::allocator<unsigned char> > >::operator++()
+ .text          0x0000000000006998      0x3ba /tmp/ccWc9nhr.o
+                0x0000000000006998                bitwiseXOR(char, char)
+                0x00000000000069d1                fixedXOR(std::vector<unsigned char, std::allocator<unsigned char> >, std::vector<unsigned char, std::allocator<unsigned char> >)
+ .text._ZNSt12_Vector_baseIhSaIhEEC2EOS1_
+                0x0000000000006d52       0x26 /tmp/ccWc9nhr.o
+                0x0000000000006d52                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_base(std::_Vector_base<unsigned char, std::allocator<unsigned char> >&&)
+                0x0000000000006d52                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_base(std::_Vector_base<unsigned char, std::allocator<unsigned char> >&&)
+ .text._ZNSt6vectorIhSaIhEEC2EOS1_
+                0x0000000000006d78       0x26 /tmp/ccWc9nhr.o
+                0x0000000000006d78                std::vector<unsigned char, std::allocator<unsigned char> >::vector(std::vector<unsigned char, std::allocator<unsigned char> >&&)
+                0x0000000000006d78                std::vector<unsigned char, std::allocator<unsigned char> >::vector(std::vector<unsigned char, std::allocator<unsigned char> >&&)
+ .text._ZNSt12_Vector_baseIhSaIhEE12_Vector_implC2EOS2_
+                0x0000000000006d9e       0x51 /tmp/ccWc9nhr.o
+                0x0000000000006d9e                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl::_Vector_impl(std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl&&)
+                0x0000000000006d9e                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl::_Vector_impl(std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl&&)
+ .text._ZSt4moveIRNSt12_Vector_baseIhSaIhEE12_Vector_implEEONSt16remove_referenceIT_E4typeEOS6_
+                0x0000000000006def        0xe /tmp/ccWc9nhr.o
+                0x0000000000006def                std::remove_reference<std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl&>::type&& std::move<std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl&>(std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl&)
+ *fill*         0x0000000000006dfd        0x1 
+ .text._ZNSt12_Vector_baseIhSaIhEE17_Vector_impl_dataC2EOS2_
+                0x0000000000006dfe       0x68 /tmp/ccWc9nhr.o
+                0x0000000000006dfe                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl_data::_Vector_impl_data(std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl_data&&)
+                0x0000000000006dfe                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl_data::_Vector_impl_data(std::_Vector_base<unsigned char, std::allocator<unsigned char> >::_Vector_impl_data&&)
+ .text          0x0000000000006e66      0xc45 /tmp/ccn4qrlJ.o
+                0x0000000000006e66                bin2hex(std::vector<unsigned char, std::allocator<unsigned char> >)
+                0x000000000000702f                hex2bin(std::vector<unsigned char, std::allocator<unsigned char> >)
+                0x000000000000732b                bin2base64(std::vector<unsigned char, std::allocator<unsigned char> >)
+                0x0000000000007529                dec2bin(int)
+                0x00000000000076d0                bin2dec(std::vector<unsigned char, std::allocator<unsigned char> >)
+ *fill*         0x0000000000007aab        0x5 
+ .text          0x0000000000007ab0       0x75 /usr/lib/libc_nonshared.a(elf-init.oS)
+                0x0000000000007ab0                __libc_csu_init
+                0x0000000000007b20                __libc_csu_fini
+ .text          0x0000000000007b25        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtendS.o
+ .text          0x0000000000007b25        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/crtn.o
+ *(.gnu.warning)
+
+.fini           0x0000000000007b28        0xd
+ *(SORT_NONE(.fini))
+ .fini          0x0000000000007b28        0x8 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/crti.o
+                0x0000000000007b28                _fini
+ .fini          0x0000000000007b30        0x5 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/crtn.o
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+                0x0000000000008000                . = ALIGN (CONSTANT (MAXPAGESIZE))
+                0x0000000000008000                . = SEGMENT_START ("rodata-segment", (ALIGN (CONSTANT (MAXPAGESIZE)) + (. & (CONSTANT (MAXPAGESIZE) - 0x1))))
+
+.rodata         0x0000000000008000      0x412
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.cst4   0x0000000000008000        0x4 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+                0x0000000000008000                _IO_stdin_used
+ *fill*         0x0000000000008004        0x4 
+ .rodata        0x0000000000008008      0x15a obj/test.o
+ *fill*         0x0000000000008162        0x6 
+ .rodata        0x0000000000008168       0xc2 obj/encryptedMessage.o
+ .rodata        0x000000000000822a       0x1c /tmp/ccWc9nhr.o
+ *fill*         0x0000000000008246        0x2 
+ .rodata        0x0000000000008248      0x1ca /tmp/ccn4qrlJ.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000008414      0x694
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000008414      0x694 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+                0x0000000000008414                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x0000000000008aa8     0x1b98
+ *(.eh_frame)
+ .eh_frame      0x0000000000008aa8       0x30 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+                                         0x2c (size before relaxing)
+ *fill*         0x0000000000008ad8        0x0 
+ .eh_frame      0x0000000000008ad8       0x28 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000008b00        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+ .eh_frame      0x0000000000008b00     0x12f0 obj/test.o
+                                       0x1308 (size before relaxing)
+ .eh_frame      0x0000000000009df0      0x5b8 obj/encryptedMessage.o
+                                       0x16c0 (size before relaxing)
+ .eh_frame      0x000000000000a3a8      0x130 /tmp/ccWc9nhr.o
+                                        0xc60 (size before relaxing)
+ .eh_frame      0x000000000000a4d8      0x108 /tmp/ccn4qrlJ.o
+                                        0xcc0 (size before relaxing)
+ .eh_frame      0x000000000000a5e0       0x5c /usr/lib/libc_nonshared.a(elf-init.oS)
+                                         0x78 (size before relaxing)
+ .eh_frame      0x000000000000a63c        0x4 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtendS.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+                0x000000000000a640      0x31c
+ *(.gcc_except_table .gcc_except_table.*)
+ .gcc_except_table
+                0x000000000000a640       0xcc obj/test.o
+ .gcc_except_table
+                0x000000000000a70c      0x158 obj/encryptedMessage.o
+ .gcc_except_table
+                0x000000000000a864       0x59 /tmp/ccWc9nhr.o
+ *fill*         0x000000000000a8bd        0x3 
+ .gcc_except_table
+                0x000000000000a8c0       0x9c /tmp/ccn4qrlJ.o
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges*)
+                0x000000000000bd88                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges*)
+
+.tdata          0x000000000000bd88        0x0
+                [!provide]                        PROVIDE (__tdata_start = .)
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x000000000000bd88        0x0
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x000000000000bd88       0x28
+                0x000000000000bd88                PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x000000000000bd88        0x8 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtbeginS.o
+ .init_array    0x000000000000bd90        0x8 obj/test.o
+ .init_array    0x000000000000bd98        0x8 obj/encryptedMessage.o
+ .init_array    0x000000000000bda0        0x8 /tmp/ccWc9nhr.o
+ .init_array    0x000000000000bda8        0x8 /tmp/ccn4qrlJ.o
+                0x000000000000bdb0                PROVIDE (__init_array_end = .)
+
+.fini_array     0x000000000000bdb0        0x8
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x000000000000bdb0        0x8 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtbeginS.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro    0x000000000000bdb8        0x0
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x000000000000bdb8        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+
+.dynamic        0x000000000000bdb8      0x210
+ *(.dynamic)
+ .dynamic       0x000000000000bdb8      0x210 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+                0x000000000000bdb8                _DYNAMIC
+
+.got            0x000000000000bfc8       0x38
+ *(.got)
+ .got           0x000000000000bfc8       0x38 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+ *(.igot)
+                0x000000000000cfe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x000000000000c000      0x160
+ *(.got.plt)
+ .got.plt       0x000000000000c000      0x160 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+                0x000000000000c000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x000000000000c160       0x18
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x000000000000c160        0x4 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+                0x000000000000c160                data_start
+                0x000000000000c160                __data_start
+ .data          0x000000000000c164        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/crti.o
+ .data          0x000000000000c164        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtbeginS.o
+ *fill*         0x000000000000c164        0x4 
+ .data.rel.local
+                0x000000000000c168        0x8 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtbeginS.o
+                0x000000000000c168                __dso_handle
+ .data          0x000000000000c170        0x0 obj/test.o
+ .data.rel.local.DW.ref.__gxx_personality_v0
+                0x000000000000c170        0x8 obj/test.o
+                0x000000000000c170                DW.ref.__gxx_personality_v0
+ .data          0x000000000000c178        0x0 obj/encryptedMessage.o
+ .data          0x000000000000c178        0x0 /tmp/ccWc9nhr.o
+ .data          0x000000000000c178        0x0 /tmp/ccn4qrlJ.o
+ .data          0x000000000000c178        0x0 /usr/lib/libc_nonshared.a(elf-init.oS)
+ .data          0x000000000000c178        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtendS.o
+ .data          0x000000000000c178        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/crtn.o
+
+.tm_clone_table
+                0x000000000000c178        0x0
+ .tm_clone_table
+                0x000000000000c178        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtbeginS.o
+ .tm_clone_table
+                0x000000000000c178        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtendS.o
+
+.data1
+ *(.data1)
+                0x000000000000c178                _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                0x000000000000c178                . = .
+                0x000000000000c178                __bss_start = .
+
+.bss            0x000000000000c180      0x240
+ *(.dynbss)
+ *fill*         0x000000000000c180        0x0 
+ .dynbss        0x000000000000c180      0x238 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+                0x000000000000c180                std::cout@@GLIBCXX_3.4
+                0x000000000000c2a0                std::cin@@GLIBCXX_3.4
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000000000c3b8        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+ .bss           0x000000000000c3b8        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/crti.o
+ .bss           0x000000000000c3b8        0x1 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtbeginS.o
+ .bss           0x000000000000c3b9        0x1 obj/test.o
+ .bss           0x000000000000c3ba        0x1 obj/encryptedMessage.o
+ .bss           0x000000000000c3bb        0x1 /tmp/ccWc9nhr.o
+ .bss           0x000000000000c3bc        0x1 /tmp/ccn4qrlJ.o
+ .bss           0x000000000000c3bd        0x0 /usr/lib/libc_nonshared.a(elf-init.oS)
+ .bss           0x000000000000c3bd        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtendS.o
+ .bss           0x000000000000c3bd        0x0 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/crtn.o
+ *(COMMON)
+                0x000000000000c3c0                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x000000000000c3bd        0x3 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x000000000000c3c0                . = ALIGN (0x8)
+                0x000000000000c3c0                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x000000000000e3c0        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x000000000000e3c0                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x000000000000e3c0                . = ALIGN (0x8)
+                0x000000000000c3c0                _end = .
+                [!provide]                        PROVIDE (end = .)
+                0x000000000000e3c0                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x12
+ *(.comment)
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../lib/Scrt1.o
+                                         0x26 (size before relaxing)
+ .comment       0x0000000000000012       0x13 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtbeginS.o
+ .comment       0x0000000000000012       0x13 obj/test.o
+ .comment       0x0000000000000012       0x13 obj/encryptedMessage.o
+ .comment       0x0000000000000012       0x13 /tmp/ccWc9nhr.o
+ .comment       0x0000000000000012       0x13 /tmp/ccn4qrlJ.o
+ .comment       0x0000000000000012       0x13 /usr/lib/libc_nonshared.a(elf-init.oS)
+ .comment       0x0000000000000012       0x13 /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/crtendS.o
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000     0x1f70
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x910 obj/test.o
+ .debug_aranges
+                0x0000000000000910      0xab0 obj/encryptedMessage.o
+ .debug_aranges
+                0x00000000000013c0      0x5e0 /tmp/ccWc9nhr.o
+ .debug_aranges
+                0x00000000000019a0      0x5d0 /tmp/ccn4qrlJ.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x272bc
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0xb3fa obj/test.o
+ .debug_info    0x000000000000b3fa     0xc33f obj/encryptedMessage.o
+ .debug_info    0x0000000000017739     0x6181 /tmp/ccWc9nhr.o
+ .debug_info    0x000000000001d8ba     0x9a02 /tmp/ccn4qrlJ.o
+
+.debug_abbrev   0x0000000000000000     0x2a8e
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0xaf3 obj/test.o
+ .debug_abbrev  0x0000000000000af3      0xb0f obj/encryptedMessage.o
+ .debug_abbrev  0x0000000000001602      0x9c3 /tmp/ccWc9nhr.o
+ .debug_abbrev  0x0000000000001fc5      0xac9 /tmp/ccn4qrlJ.o
+
+.debug_line     0x0000000000000000     0x5a79
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000     0x1a66 obj/test.o
+ .debug_line    0x0000000000001a66     0x1d9e obj/encryptedMessage.o
+ .debug_line    0x0000000000003804      0xf95 /tmp/ccWc9nhr.o
+ .debug_line    0x0000000000004799     0x12e0 /tmp/ccn4qrlJ.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0xdbec
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0xc0c9 obj/test.o
+                                       0xc6cf (size before relaxing)
+ .debug_str     0x000000000000c0c9     0x185c obj/encryptedMessage.o
+                                       0xd883 (size before relaxing)
+ .debug_str     0x000000000000d925      0x21e /tmp/ccWc9nhr.o
+                                       0x5169 (size before relaxing)
+ .debug_str     0x000000000000db43       0xa9 /tmp/ccn4qrlJ.o
+                                       0xab78 (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x0000000000000000      0x4ca
+ *(.debug_line_str)
+ .debug_line_str
+                0x0000000000000000      0x427 obj/test.o
+                                        0x4ea (size before relaxing)
+ .debug_line_str
+                0x0000000000000427       0x2c obj/encryptedMessage.o
+                                        0x52a (size before relaxing)
+ .debug_line_str
+                0x0000000000000453       0x32 /tmp/ccWc9nhr.o
+                                        0x49a (size before relaxing)
+ .debug_line_str
+                0x0000000000000485       0x45 /tmp/ccn4qrlJ.o
+                                        0x4f4 (size before relaxing)
+
+.debug_loclists
+ *(.debug_loclists)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x0000000000000000     0x13cb
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x0000000000000000      0x5b2 obj/test.o
+ .debug_rnglists
+                0x00000000000005b2      0x6cb obj/encryptedMessage.o
+ .debug_rnglists
+                0x0000000000000c7d      0x3ab /tmp/ccWc9nhr.o
+ .debug_rnglists
+                0x0000000000001028      0x3a3 /tmp/ccn4qrlJ.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(test.out elf64-x86-64)

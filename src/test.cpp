@@ -64,18 +64,69 @@
 #include <iostream>
 #include <vector>
 #include "hex2base64.h"
+#include "XOR.h"
 
 int defaultTest()
 {
-    std::string origin = "49276d206b696c6c696e6720796f757220627261696e206c696b65206120706f69736f6e6f7573206d757368726f6f6d";
-    std::string destin = "SSdtIGtpbGxpbmcgeW91ciBicmFpbiBsaWtlIGEgcG9pc29ub3VzIG11c2hyb29t";
-    std::vector<unsigned char> hexString(origin.begin(), origin.end());
-    std::vector<unsigned char> base64String;
-    std::cout << origin << "\n";
-    base64String = bin2base64(hex2bin(hexString));
-    for (long unsigned int i = 0; i < base64String.size(); i++)
+    std::string origin = "Cooking MC's like a pound of bacon";
+    int charCounter;
+    std::vector<unsigned char> asciiString(origin.begin(), origin.end());
+    std::vector<unsigned char> binaryString;
+    std::vector<unsigned char> tempBinaryString;
+    std::vector<unsigned char> hexString;
+    std::vector<unsigned char> xordBin;
+    std::vector<unsigned char> key;
+    for (long unsigned int i = 0; i < asciiString.size(); i++)
+    {   
+        charCounter  = asciiString[i];
+        tempBinaryString = dec2bin(charCounter);
+        if (tempBinaryString.size() < 8)
+        {
+            while(tempBinaryString.size() < 8)
+            {
+                tempBinaryString.insert(tempBinaryString.begin(), '0');
+            }
+        }
+        for (long unsigned int j = 0; j < tempBinaryString.size(); j++)
+        {
+            binaryString.push_back(tempBinaryString[j]);
+        }
+    }
+    for (long unsigned int k = 0; k < binaryString.size(); k++)
     {
-        std::cout << base64String[i];
+        std::cout << binaryString[k];
+    }
+    std::cout << "\n";
+    key = dec2bin(88);
+    if (key.size() < 8)
+    {
+        while(key.size() < 8)
+        {
+            key.insert(key.begin(), '0');
+         }
+    }
+    for (long unsigned int i = 0; i < key.size(); i++)
+    {
+        std::cout << key[i];
+    }
+    std::cout << "\n";
+    for (long unsigned int i = 0; i < binaryString.size(); i = i+8)
+    {
+        for(long unsigned int j = 0; j < 8; j++)
+        {
+            xordBin.push_back(bitwiseXOR(binaryString[i+j], key[j]));
+            std::cout << binaryString[i+j] << " " << key[j] << " " << xordBin[i+j] << "\n";
+        }
+    }
+    for(long unsigned int j = 0; j < 8; j++)
+    {
+        std::cout << key[j];
+    }
+    std::cout << "\n\n";
+    hexString = bin2hex(xordBin);
+    for (long unsigned int i = 0; i < hexString.size(); i++)
+    {
+        std::cout << hexString[i];
     }
     return(0);
 }
@@ -113,8 +164,10 @@ int expectedOutputTest()
     }
     return(0);
 }
+/*
 int main(){
     defaultTest();
     //expectedOutputTest();
     return(0);
 }
+*/

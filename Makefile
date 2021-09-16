@@ -9,7 +9,7 @@
 
 include sources.mk
 
-TARGET = encryptedMessage
+TARGET = test
 SRC_DIR := src
 OBJ_DIR := obj
 BIN_DIR := bin
